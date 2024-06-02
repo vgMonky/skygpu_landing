@@ -1,7 +1,9 @@
 import React from 'react';
 import './Card.css';
 
-const Card = (img_src, ) => {
+
+
+const Card = () => {
   return (
     <div className="card">
       <div className="card-header">
@@ -9,9 +11,9 @@ const Card = (img_src, ) => {
         <h1>Welcome to Skynet.</h1>
       </div>
       <div className="card-buttons">
-        <button className="card-button">Overview</button>
-        <button className="card-button">Alfa</button>
-        <button className="card-button">Beta</button>
+        <button className="card-button" >Overview</button>
+        <button className="card-button" >Alfa</button>
+        <button className="card-button" >Beta</button>
       </div>
     </div>
   );
