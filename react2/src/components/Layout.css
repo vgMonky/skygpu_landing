@@ -1,0 +1,22 @@
+@import '../variables.css';
+
+
+.layout {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  max-width: var(--max-width);
+  margin: 0 auto;
+  height: 100vh;
+}
+
+
+.layout-section {
+  padding: 20px;
+  border: 1px solid var(--primary-color);
+}
+  
+@media (max-width: 800px) {
+    .layout {
+        grid-template-columns: repeat(1, 1fr);
+      }
+  }
