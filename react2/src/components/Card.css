@@ -3,6 +3,7 @@
 
 .card {
   position: relative;
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .card-buttons {
@@ -14,10 +15,7 @@
 .card-button {
   padding: var(--button-padding);
   margin-bottom: var(--button-margin);
-  background-color: var(--primary-color);
-  color: var(--text-color);
   border: none;
-  border-radius: var(--button-border-radius);
   cursor: pointer;
   transition: background-color 0.3s ease;
   width: 100%;
@@ -25,5 +23,8 @@
 }
 
 .card-button:hover {
-  background-color: var(--secondary-color);
+  background-color: var(--color-2);
+  color: var(--color-1)
+
+
 }

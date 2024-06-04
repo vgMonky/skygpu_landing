@@ -1,15 +1,17 @@
 // src/components/NavBar.js
 import React from 'react';
 import './NavBar.css';
-import { current_layout } from '../variables';
-
-var navbar_title
-if (current_layout === "home_layout"){navbar_title = "Skynet"}
-if (current_layout === "overview_layout"){navbar_title = "Skynet Overview"}
-if (current_layout === "alfa_layout"){navbar_title = "Skynet ALFA"}
-if (current_layout === "beta_layout"){navbar_title = "Skynet BETA"}
+import { useLayout } from '../variables'; // adjust the path as necessary
 
 const NavBar = () => {
+  const { currentLayout } = useLayout();
+  
+  var navbar_title
+  if (currentLayout === "home_layout"){navbar_title = "Skynet"}
+  if (currentLayout === "overview_layout"){navbar_title = "Skynet Overview"}
+  if (currentLayout === "alfa_layout"){navbar_title = "Skynet ALFA"}
+  if (currentLayout === "beta_layout"){navbar_title = "Skynet BETA"}
+
   return (
     <nav className="navbar">
       <div className="navbar-container">

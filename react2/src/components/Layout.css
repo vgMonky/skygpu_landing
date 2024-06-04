@@ -4,15 +4,24 @@
 .layout {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  max-width: var(--max-width);
-  margin: 0 auto;
-  height: 100vh;
+  max-width: 1100px;
+  border: 1px solid var(--color-2);
+  background-color: rgba(0, 0, 0, 0);
+  margin: auto;
+  height: 80vh;
 }
 
 
 .layout-section {
   padding: 20px;
-  border: 1px solid var(--primary-color);
+  margin: 3px;
+  border: 1px solid var(--color-2);
+  background-color: rgba(0, 0, 0, 0);
+  box-shadow:
+  0 0 5px rgba(0, 255, 0, 0.02),
+  0 0 10px rgba(0, 255, 0, 0.02),
+  0 0 20px rgba(0, 255, 0, 0.02),
+  0 0 40px rgba(0, 255, 0, 0.08);
 }
   
 @media (max-width: 800px) {

@@ -2,16 +2,16 @@
     /* font */
 
     /* colors */
-    --primary-color: #292929; /* Green */
-    --secondary-color: #388E3C; /* Darker green */
-    --text-color: #FFFFFF; /* White */
+    --color-1: #141414; /* Green */
+    --color-2: #0cbe15; /* Darker green */
+    --color-3: #FFFFFF; /* White */
+    --color-4: #292929;
 
     /* buttons */
-    --button-border-radius: 4px;
-    --button-padding: 10px 20px;
+    --button-padding: 10px 2px;
     --button-margin: 10px;
 
     
     }
 
-   
+
