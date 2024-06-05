@@ -1,7 +1,7 @@
 /* /src/component/NavBar.js */
 import React, { useState } from 'react';
 import './NavBar.css';
-import TypewriterText from '../TypewriterText';
+import TypewriterText from '../fx/TypewriterText';
 import Menu from './Menu'; 
 
 const NavBar = () => {
