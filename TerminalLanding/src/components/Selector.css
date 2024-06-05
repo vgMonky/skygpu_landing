@@ -1,0 +1,22 @@
+/* /src/component/Selector.css */
+@import '../variables.css';
+
+
+.selector {
+  position: relative;
+}
+
+.selector-header{
+    margin-bottom: 40px;
+}
+
+.selector-title{
+    font-size: 1.8rem;
+    margin-bottom: 40px;
+}
+
+.selector-options {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}

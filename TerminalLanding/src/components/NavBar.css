@@ -1,0 +1,56 @@
+/* /src/component/NavBar.css */
+
+@import '../variables.css';
+
+.navbar {
+  max-width: 1100px;
+  margin: 5px auto;
+  border: 1px solid var(--color-3);
+  background-color: rgba(0, 0, 0, 0);
+  box-shadow:
+  0 0 5px rgba(0, 255, 0, 0.02),
+  0 0 10px rgba(0, 255, 0, 0.02),
+  0 0 20px rgba(0, 255, 0, 0.02),
+  0 0 40px rgba(0, 255, 0, 0.08);
+  position: relative;
+}
+
+.navbar-container {
+  background-color: rgba(0, 0, 0, 0);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 20px;
+  position: relative;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-icon {
+  height: 50px;
+  margin-right: 10px;
+}
+
+.navbar-menu {
+  display: flex;
+  list-style: none;
+}
+
+.navbar-item {
+  margin-left: 30px;
+}
+
+.navbar-link {
+  color: var(--color-3);
+  text-decoration: none;
+  transition: color 0.3s ease;
+  margin-right: 20px;
+}
+
+.navbar-link:hover {
+  color:var(--color-1);
+  background-color: var(--color-3);
+}
