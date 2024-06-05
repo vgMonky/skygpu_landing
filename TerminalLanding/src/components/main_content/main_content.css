@@ -1,0 +1,23 @@
+/* /src/component/main_content/main_content.css */
+@import '../../variables.css';
+
+
+.page {
+
+    margin: auto;
+    max-width: 1100px;
+    background-color: rgba(0, 0, 0, 0);
+}
+  
+.page-section{
+    padding: 20px;
+    margin-bottom: 5px;
+    border: 1px solid var(--color-3);
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow:
+    0 0 5px rgba(0, 255, 0, 0.02),
+    0 0 10px rgba(0, 255, 0, 0.02),
+    0 0 20px rgba(0, 255, 0, 0.02),
+    0 0 40px rgba(0, 255, 0, 0.08);
+}
+

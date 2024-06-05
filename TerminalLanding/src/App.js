@@ -3,13 +3,16 @@ import React from 'react';
 import { MainProvider } from './states/main_state'; // adjust the path as necessary
 import NavBar from './components/NavBar';
 import Main from './components/Main';
+import { ViewerStateProvider } from './states/viewer_state';
 
 
 function App() {
   return (
     <MainProvider>
-      <NavBar/>
-      <Main/>
+      <ViewerStateProvider>
+        <NavBar/>
+        <Main/>
+      </ViewerStateProvider>
     </MainProvider>
   );
 }

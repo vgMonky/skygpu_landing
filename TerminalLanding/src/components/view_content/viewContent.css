@@ -1,0 +1,11 @@
+/* /src/component/view_content/viewContent.css */
+@import '../../variables.css';
+
+
+.view-title{
+    font-size: 1.6rem;
+}
+
+.lern-more{
+    color: var(--color-5);
+}

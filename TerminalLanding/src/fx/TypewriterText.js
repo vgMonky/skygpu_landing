@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import './TypewriterText.css'; // Import the CSS file for hover styles
 
-const TypewriterText = ({ children, speed = 50, hover = false, textSize = '1em', ticking = false }) => {
+const TypewriterText = ({ children, speed = 50, hover = false, textSize = '1em', ticking = false, orange = false }) => {
   const [displayedText, setDisplayedText] = useState('');
   const [isFaded, setIsFaded] = useState(false);
 
@@ -26,18 +26,19 @@ const TypewriterText = ({ children, speed = 50, hover = false, textSize = '1em',
     if (ticking) {
       const tickInterval = setInterval(() => {
         setIsFaded((prev) => !prev);
-      }, speed / 150); // Toggle fading every half of the speed duration
+      }, speed / 50); // Toggle fading every half of the speed duration
 
       return () => clearInterval(tickInterval);
     }
   }, [ticking, speed]);
 
+  const typewriterClass = `${hover ? 'typewriter hover' : 'typewriter'} ${ticking ? 'ticking' : ''} ${isFaded ? 'faded' : ''} ${orange ? 'orange' : ''}`;
+
   return (
-    <span className={`${hover ? 'typewriter hover' : 'typewriter'} ${ticking ? 'ticking' : ''} ${isFaded ? 'faded' : ''}`} style={{ fontSize: textSize }}>
+    <span className={typewriterClass} style={{ fontSize: textSize }}>
       {displayedText}
     </span>
   );
 };
 
 export default TypewriterText;
-

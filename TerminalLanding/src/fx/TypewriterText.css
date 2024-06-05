@@ -1,6 +1,21 @@
 /* src/fx/TypewriterText.css */
+@import '../variables.css';
+
+
 .typewriter {
   display: inline-block;
+  line-height: 1.4;
+}
+
+.typewriter.orange {
+  color:var(--color-5);
+}
+
+.typewriter.hover {
+  cursor: pointer;
+  display: block;
+  width: 100%;
+  text-align: left;
 }
 
 .typewriter.hover:hover {
@@ -8,6 +23,11 @@
   background-color: var(--color-3);
 }
 
+.typewriter.hover:focus,
+.typewriter.hover:active {
+  background-color: var(--color-5); 
+}
+
 .typewriter.ticking.faded {
-  opacity: 0.5; /* Set the opacity to 50% when ticking and faded */
+  opacity: 0.7; 
 }
