@@ -1,3 +1,3 @@
 # skygpu_landing
 
-Web page with the style of a terminal containing all Skygpu.net basic information and links up untill alpha 1.0.
+Web page in the style of a retro terminal, containing all Skygpu.net basic information and links up untill alpha 1.0.
