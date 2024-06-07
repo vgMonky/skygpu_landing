@@ -17,7 +17,7 @@ const IntroView = () => {
   return (
     <div className="view-content">
       <div className="view-title">
-        <TypewriterText>Introduction:</TypewriterText>
+        <TypewriterText>Introduction.</TypewriterText>
       </div>
 
       <div className="view-body">

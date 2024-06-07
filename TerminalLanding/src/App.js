@@ -12,6 +12,7 @@ function App() {
       <ViewerStateProvider>
         <NavBar/>
         <Main/>
+        <div className="main-section">FOTTER</div>
       </ViewerStateProvider>
     </MainProvider>
   );
