@@ -12,7 +12,7 @@ function App() {
       <ViewerStateProvider>
         <NavBar/>
         <Main/>
-        <div className="main-section">FOTTER</div>
+        <div className="main-section">FOTTER WITH MOST IMPORTANT LINKS ICONS</div>
       </ViewerStateProvider>
     </MainProvider>
   );
