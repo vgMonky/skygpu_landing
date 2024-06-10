@@ -12,7 +12,7 @@ const NavBar = () => {
     };
 
     return (
-        <nav className="navbar ctr" >
+        <nav className="navbar" >
         <div className="navbar-container">
             <div className="navbar-brand">
                 <img src="https://avatars.githubusercontent.com/u/151031767?s=64&v=4" alt="Icon" className="navbar-icon" />

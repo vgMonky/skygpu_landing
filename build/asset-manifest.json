@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/skygpu_landing/static/css/main.1088ed20.css",
-    "main.js": "/skygpu_landing/static/js/main.8b09fa9c.js",
+    "main.js": "/skygpu_landing/static/js/main.035f81fe.js",
     "index.html": "/skygpu_landing/index.html",
     "main.1088ed20.css.map": "/skygpu_landing/static/css/main.1088ed20.css.map",
-    "main.8b09fa9c.js.map": "/skygpu_landing/static/js/main.8b09fa9c.js.map"
+    "main.035f81fe.js.map": "/skygpu_landing/static/js/main.035f81fe.js.map"
   },
   "entrypoints": [
     "static/css/main.1088ed20.css",
-    "static/js/main.8b09fa9c.js"
+    "static/js/main.035f81fe.js"
   ]
 }
