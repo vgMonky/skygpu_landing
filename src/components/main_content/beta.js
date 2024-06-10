@@ -1,4 +1,4 @@
-/* /src/component/main.js */
+/* /src/component/main_component/beta.js */
 import React from 'react';
 import './main_content.css';
 import TypewriterText from '../../fx/TypewriterText';

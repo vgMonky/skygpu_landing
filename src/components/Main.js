@@ -4,9 +4,11 @@ import './Main.css';
 import { useMain } from '../states/main_state'; // adjust the path as necessary
 import Selector from './Selector';
 import Viewer from './Viewer';
+
 import Intro from './main_content/intro';
 import Alpha from './main_content/alpha';
 import Beta from './main_content/beta';
+import Museum from './main_content/museum';
 
 
 const Main = () => {
@@ -37,6 +39,12 @@ const Main = () => {
     if (currentMain == "beta_main"){
         return (
             <Beta/>
+        )
+    }
+
+    if (currentMain == "museum_main"){
+        return (
+            <Museum/>
         )
     }
 

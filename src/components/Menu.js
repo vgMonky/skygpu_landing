@@ -27,6 +27,9 @@ const Menu = () => {
         <button className="option" onClick={() => { handleButtonClick('beta_main'); }}>
           <TypewriterText hover={true}>/Beta</TypewriterText>
         </button>
+        <button className="option" onClick={() => { handleButtonClick('museum_main'); }}>
+          <TypewriterText hover={true}>/Example</TypewriterText>
+        </button>
       </div>
     );
 };

@@ -34,7 +34,7 @@ const Selector = () => {
                         <TypewriterText hover={true} ticking={true}>/Beta</TypewriterText>
                         </button>
                     <button className="option" onClick={() => changeViewer('prompt')}>
-                        <TypewriterText hover={true} ticking={true}>/Prompt</TypewriterText>
+                        <TypewriterText hover={true} ticking={true}>/Example</TypewriterText>
                         </button>
                 </div>
             </div>  

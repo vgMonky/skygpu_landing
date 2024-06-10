@@ -1,4 +1,4 @@
-/* /src/component/main.js */
+/* /src/component/main_component/intro.js */
 import React from 'react';
 import './main_content.css';
 import TypewriterText from '../../fx/TypewriterText';
@@ -10,10 +10,21 @@ const Intro = () => {
             <div className="page-section">
                 <h1><TypewriterText speed={10} textSize='20pt'>Introduction.</TypewriterText></h1>
             </div> 
+            
 
             <div className="page-section">
                 <h1><TypewriterText speed={10}>Vision</TypewriterText></h1>
                 <p><TypewriterText speed={10}>Create a decentralized alternative to big-AI tools and platforms following the principles of the original cypherpunks.</TypewriterText></p>
+            </div> 
+
+            <div className="page-section">
+                <img src="https://avatars.githubusercontent.com/u/151031767?s=200&v=4"></img>
+                <p><TypewriterText speed={10}>"prompt": "skynet terminator skull metal slug pixel art neon colors",</TypewriterText></p>
+                <p><TypewriterText speed={10}>"model": "prompthero/openjourney",</TypewriterText></p>
+                <p><TypewriterText speed={10}>"step": 28,</TypewriterText></p>
+                <p><TypewriterText speed={10}>"width": 1024,</TypewriterText></p>
+                <p><TypewriterText speed={10}>"height": 1024,</TypewriterText></p>
+                <p><TypewriterText speed={10}>"seed": "3308458328"</TypewriterText></p>
             </div> 
 
             <div className="page-section">
@@ -67,15 +78,7 @@ const Intro = () => {
             </div> 
 
 
-            <div className="page-section">
-                <img src="https://avatars.githubusercontent.com/u/151031767?s=200&v=4"></img>
-                <p><TypewriterText speed={10}>"prompt": "skynet terminator skull metal slug pixel art neon colors",</TypewriterText></p>
-                <p><TypewriterText speed={10}>"model": "prompthero/openjourney",</TypewriterText></p>
-                <p><TypewriterText speed={10}>"step": 28,</TypewriterText></p>
-                <p><TypewriterText speed={10}>"width": 1024,</TypewriterText></p>
-                <p><TypewriterText speed={10}>"height": 1024,</TypewriterText></p>
-                <p><TypewriterText speed={10}>"seed": "3308458328"</TypewriterText></p>
-            </div> 
+
         </div>
     )
     

@@ -9,15 +9,15 @@ import './fx/CRT.css'
 
 function App() {
   return (
-    <MainProvider>
-      <ViewerStateProvider>
-        <div className='crt'>
+    <div className='crt'>
+      <MainProvider>
+        <ViewerStateProvider>
           <NavBar/>
           <Main/>
           <Foot/>
-        </div>
-      </ViewerStateProvider>
-    </MainProvider>
+        </ViewerStateProvider>
+      </MainProvider>
+    </div>
   );
 }
 
