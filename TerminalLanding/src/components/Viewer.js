@@ -6,7 +6,7 @@ import { useViewerState } from '../states/viewer_state'; // Import the custom ho
 import IntroView from './view_content/introView';
 import AlphaView from './view_content/alphaView';
 import BetaView from './view_content/betaView';
-
+import Prompt from './view_content/prompt';
 
 const Viewer = () => {
     const { viewerState } = useViewerState(); // Get the viewer state using the custom hook
@@ -25,6 +25,9 @@ const Viewer = () => {
             break;
         case 'beta':
             content = <BetaView/>;
+            break;
+        case 'prompt':
+            content = <Prompt/>;
             break;
         default:
             content = <TypewriterText>...waiting for selection.</TypewriterText>;
