@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skygpu_landing/static/css/main.1088ed20.css",
+    "main.js": "/skygpu_landing/static/js/main.8b09fa9c.js",
+    "index.html": "/skygpu_landing/index.html",
+    "main.1088ed20.css.map": "/skygpu_landing/static/css/main.1088ed20.css.map",
+    "main.8b09fa9c.js.map": "/skygpu_landing/static/js/main.8b09fa9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1088ed20.css",
+    "static/js/main.8b09fa9c.js"
+  ]
+}
