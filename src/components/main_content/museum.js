@@ -36,7 +36,7 @@ const Museum = () => {
         <div className="page">
             {showCard && <div className="backdrop" onClick={handleBackdropClick}></div>}
             <div className="page-section">
-                <h1><TypewriterText speed={10} textSize="20pt">Museum Gallery Examples</TypewriterText></h1>
+                <h1><TypewriterText speed={10} textSize="20pt">Museum Gallery </TypewriterText></h1>
             </div> 
 
             <div className="page-section">

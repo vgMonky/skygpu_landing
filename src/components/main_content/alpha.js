@@ -43,21 +43,21 @@ const Alpha = () => {
                 <h1><TypewriterText speed={10}>Apps</TypewriterText></h1>
 
                 <p className='x'><TypewriterText speed={10}>Chain Explorer</TypewriterText></p>
-                <a href="https://testnet.skygpu.net/v2/explore/" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>Landing Page</TypewriterText></a>
-                <a href="https://testnet.skygpu.net/v2/explore/transaction/f9a0c91b75230f574921489226d5279d09bfeb8681cf235e1b1cca65d1b30e6b" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>Example Request</TypewriterText></a>
-                <a href="https://testnet.skygpu.net/v2/explore/transaction/638c9ef3f6fe486fcc129477c26e419e7c8e82d6af8fa22dc58bbdad47dd8a0b" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>Example Result</TypewriterText></a>
-                <a href="https://testnet.skygpu.net/v2/explore/account/telos.gpu" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>Main Contract</TypewriterText></a>
+                <a href="https://testnet.skygpu.net/v2/explore/" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>/landing_page</TypewriterText></a>
+                <a href="https://testnet.skygpu.net/v2/explore/transaction/f9a0c91b75230f574921489226d5279d09bfeb8681cf235e1b1cca65d1b30e6b" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>/example_request</TypewriterText></a>
+                <a href="https://testnet.skygpu.net/v2/explore/transaction/638c9ef3f6fe486fcc129477c26e419e7c8e82d6af8fa22dc58bbdad47dd8a0b" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>/example_result</TypewriterText></a>
+                <a href="https://testnet.skygpu.net/v2/explore/account/telos.gpu" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>/main_contract</TypewriterText></a>
                 <br></br>
                 <p className='x'><TypewriterText speed={10}>Telegram</TypewriterText></p>
-                <a href="https://t.me/skynetgpu" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>Main Group</TypewriterText></a>
-                <a href="https://t.me/+y6UHmY_gF3o4ZGE5" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>Museum Group</TypewriterText></a>
+                <a href="https://t.me/skynetgpu" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>/main_group</TypewriterText></a>
+                <a href="https://t.me/+y6UHmY_gF3o4ZGE5" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>/museum_group</TypewriterText></a>
                 <br></br>
                 <p className='x'><TypewriterText speed={10}>Discord</TypewriterText></p>
-                <a href="https://discord.gg/zuvk4SypMy" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>Official Server</TypewriterText></a>
+                <a href="https://discord.gg/zuvk4SypMy" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>/official_server</TypewriterText></a>
                 <br></br>
                 <p className='x'><TypewriterText speed={10}>Made by Boid.com</TypewriterText></p>
-                <a href="https://muumba.art/" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>Muumba Art Search</TypewriterText></a>
-                <a href="https://app.pintastic.link/" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>Pintastic Integration</TypewriterText></a>
+                <a href="https://muumba.art/" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>/muumba_art_search</TypewriterText></a>
+                <a href="https://app.pintastic.link/" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} textSize="12pt" hover={true} orange={true} speed={10}>/pintastic_integration</TypewriterText></a>
 
             </div> 
 

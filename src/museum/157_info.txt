@@ -1,0 +1,11 @@
+Message: by @TioVic
+prompt: "charles manson fucking alien mushroom, mushroom entity, surrealist trippy illustration, Christ god resurrection, Alex Gray painting, detailed texture 8k"
+seed: 8.590302567173317e+17
+step: 40.0
+guidance: 5.0
+strength: 0.699999988079071
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

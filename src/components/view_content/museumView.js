@@ -3,7 +3,6 @@ import './viewContent.css';
 import TypewriterText from '../../fx/TypewriterText';
 import { useMain } from '../../states/main_state'; // Import the custom hook to access main state
 import { useViewerState } from '../../states/viewer_state'; // Import the custom hook to access viewer state
-import '../main_content/main_content.css';
 
 // Dynamically import all images and text files from the museum folder
 const importAll = (r) => r.keys().map(r);
@@ -11,7 +10,7 @@ const images = importAll(require.context('../../museum', false, /_photo\.jpg$/))
 const texts = importAll(require.context('../../museum', false, /_info\.txt$/));
 
 // Set a constant for the maximum number of images to display
-const MAX_IMAGES = 9;
+const MAX_IMAGES = 12;
 
 const MuseumView = () => {
   const { setCurrentMain } = useMain(); // Get the function to update the main state
@@ -31,8 +30,8 @@ const MuseumView = () => {
       fetch(texts[index])
           .then(response => response.text())
           .then(text => {
-              // Remove the "Message: " part if it exists
-              const cleanedText = text.replace(/^Message:\s*/, '');
+              // Remove the "Message: " part if it exists and exclude everything after "URL:"
+              const cleanedText = text.replace(/^Message:\s*/, '').split("URL:")[0].trim();
               setSelectedImage(image);
               setSelectedText(cleanedText);
               setShowCard(true);

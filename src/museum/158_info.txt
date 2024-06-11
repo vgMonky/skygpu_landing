@@ -1,0 +1,11 @@
+Message: by @zoltaniam
+prompt: "artistic catharsis"
+seed: 1.2505309075986336e+19
+step: 35.0
+guidance: 8.0
+strength: 0.800000011920929
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

@@ -1,0 +1,9 @@
+Message: prompt: "humans with satellites for heads, cyber fucking punk, dmt"
+seed: 6.468298812084754e+18
+step: 35.0
+guidance: 8.0
+algo: "robot"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none
