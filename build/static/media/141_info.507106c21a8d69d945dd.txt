@@ -1,0 +1,9 @@
+Message: prompt: "orwell portrait, head and shoulders, wires and satellites coming out of skin, hyper detailed, hyper real, 4k reso evil"
+seed: 7.112020610042e+18
+step: 88.0
+guidance: 8.0
+algo: "robot"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none

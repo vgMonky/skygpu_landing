@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @zoltaniam
+performed by testworker2
+reward: 20.0000 GPU
+prompt: a poor boy trading his data for some bread, in the style of soviet propaganda poster, oil on canvas
+seed: 2017607716
+step: 22
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/0256a80525947c8400a04757cc90827a4d46e53490aee8c87baea8851480ba2e

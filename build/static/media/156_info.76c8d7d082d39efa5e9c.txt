@@ -1,0 +1,10 @@
+Message: by @guillermor99
+prompt: "soviet propaganda poster of a terminator dystopic"
+seed: 3.092328310756618e+18
+step: 28.0
+guidance: 8.0
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: None
