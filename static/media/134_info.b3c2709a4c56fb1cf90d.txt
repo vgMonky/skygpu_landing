@@ -1,0 +1,9 @@
+Message: prompt: "bremen, weser, hanseatic architecture, beautiful view, summer, warm, painting, oil, van gogh style"
+seed: 1.0783807114123727e+19
+step: 75.0
+guidance: 8.0
+algo: "stable"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none

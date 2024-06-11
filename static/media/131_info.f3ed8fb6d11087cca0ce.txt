@@ -1,0 +1,9 @@
+Message: prompt: "cyberpunk skynet terminator skull a post impressionist oil painting with muted colors authored by Paul Cézanne, Paul Gauguin, Vincent van Gogh, Georges Seurat"
+seed: 1.6508687627179713e+19
+step: 28.0
+guidance: 10.0
+algo: "van-gogh"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none
