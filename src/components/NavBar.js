@@ -14,10 +14,10 @@ const NavBar = () => {
     return (
         <nav className="navbar" >
         <div className="navbar-container">
-            <div className="navbar-brand">
+            <a href='' className="navbar-brand">
                 <img src="https://avatars.githubusercontent.com/u/151031767?s=64&v=4" alt="Icon" className="navbar-icon" />
                 <span className="navbar-title"><TypewriterText>SKYNET.GPU</TypewriterText></span>
-            </div>
+            </a>
                 <a href="#" className="navbar-link" onClick={toggleMenu}>
                     <TypewriterText hover={true} ticking={true}>/root</TypewriterText>   
                 </a>

@@ -178,7 +178,7 @@
         rgba(0, 255, 0, 0.02),
         rgba(0, 0, 255, 0.06)
       );
-    z-index: 200;
+    z-index: 1000;
     background-size: 100% 3px, 4px 100%;
     pointer-events: none;
   }
