@@ -15,9 +15,9 @@ const Menu = () => {
 
     return (
       <div className="menu">
-        <button className="option" onClick={() => { handleButtonClick('home_main'); }}>
-          <TypewriterText hover={true}>/init</TypewriterText>
-        </button>
+        <a href='' className="option" >
+          <TypewriterText hover={true}>/init *</TypewriterText>
+        </a>
         <button className="option" onClick={() => { handleButtonClick('intro_main'); }}>
           <TypewriterText hover={true}>/intro</TypewriterText>
         </button>

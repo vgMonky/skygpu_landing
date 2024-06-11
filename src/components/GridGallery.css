@@ -11,7 +11,33 @@
     width: 100%;
     height: auto;
     cursor: pointer;
+    transition: transform 0.3s ease; /* Smooth transition for the scaling effect */
 }
+
+.grid-image:hover {
+    transform: scale(1.1); /* Scale the image to 1.2 times its original size */
+}
+.black-box {
+    width: 400px; /* Adjust this to match the card's max width */
+    height: auto;
+    aspect-ratio: 1; /* Maintain aspect ratio, change this if needed */
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.loading {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: var(--color-3);
+    z-index: 1000; /* Make sure it's above other elements */
+}
+
+
 
 .card {
     max-width: 400px;
@@ -50,3 +76,7 @@
     z-index: 100;
     backdrop-filter: blur(5px); /* Adjust the blur radius as needed */
 }
+
+
+
+

@@ -10,20 +10,11 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
   const [selectedImage, setSelectedImage] = useState(null);
   const [selectedText, setSelectedText] = useState('');
   const [showCard, setShowCard] = useState(false);
-  const [shuffledImages, setShuffledImages] = useState([]);
-
-  useEffect(() => {
-    // Shuffle the images array when the component mounts
-    setShuffledImages(shuffleArray(images));
-  }, []);
-
-  // Helper function to shuffle an array
-  const shuffleArray = (array) => {
-    return [...array].sort(() => Math.random() - 0.5);
-  };
+  const [loading, setLoading] = useState(false);
 
   const handleImageClick = (image, index, event) => {
     event.stopPropagation();
+    setLoading(true);
     fetch(texts[index])
       .then(response => response.text())
       .then(text => {
@@ -31,7 +22,11 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
         const cleanedText = text.replace(/^Message:\s*/, '').split("URL:")[0].trim();
         setSelectedImage(image);
         setSelectedText(cleanedText);
+        setLoading(false);
         setShowCard(true);
+      })
+      .catch(() => {
+        setLoading(false); // Handle errors by stopping the loading indicator
       });
   };
 
@@ -47,7 +42,7 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
     <div className="grid-gallery">
       {showCard && <div className="backdrop" onClick={handleBackdropClick}></div>}
       <div className="image-grid" style={{ gridTemplateColumns: `repeat(auto-fill, minmax(${grid_size}, 1fr))` }}>
-        {shuffledImages.slice(0, max_images).map((image, index) => (
+        {images.slice(0, max_images).map((image, index) => (
           <img
             key={index}
             src={image}
@@ -59,7 +54,11 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
       </div>
       {showCard && (
         <div className="card" onClick={handleCardClick}>
-          <img src={selectedImage} alt="Selected" className="card-image" />
+          {loading ? (
+            <div className="black-box">Loading...</div>
+          ) : (
+            <img src={selectedImage} alt="Selected" className="card-image" />
+          )}
           <p className="card-text">{selectedText}</p>
         </div>
       )}

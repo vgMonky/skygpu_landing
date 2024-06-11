@@ -20,3 +20,6 @@
     margin: 30px 30px;
   }
   
+.menu a{
+  margin-bottom: var(--button-margin);
+}
