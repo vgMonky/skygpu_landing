@@ -16,19 +16,19 @@ const Menu = () => {
     return (
       <div className="menu">
         <button className="option" onClick={() => { handleButtonClick('home_main'); }}>
-          <TypewriterText hover={true}>/Init</TypewriterText>
+          <TypewriterText hover={true}>/init</TypewriterText>
         </button>
         <button className="option" onClick={() => { handleButtonClick('intro_main'); }}>
-          <TypewriterText hover={true}>/Intro</TypewriterText>
+          <TypewriterText hover={true}>/intro</TypewriterText>
         </button>
         <button className="option" onClick={() => { handleButtonClick('alpha_main'); }}>
-          <TypewriterText hover={true}>/Alpha</TypewriterText>
+          <TypewriterText hover={true}>/alpha</TypewriterText>
         </button>
         <button className="option" onClick={() => { handleButtonClick('beta_main'); }}>
-          <TypewriterText hover={true}>/Beta</TypewriterText>
+          <TypewriterText hover={true}>/beta</TypewriterText>
         </button>
         <button className="option" onClick={() => { handleButtonClick('museum_main'); }}>
-          <TypewriterText hover={true}>/Example</TypewriterText>
+          <TypewriterText hover={true}>/museum</TypewriterText>
         </button>
       </div>
     );

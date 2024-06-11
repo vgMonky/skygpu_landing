@@ -25,16 +25,16 @@ const Selector = () => {
             <div className="selector-body">
                 <div className="selector-options">
                     <button className="option" onClick={() => changeViewer('intro')}>
-                        <TypewriterText hover={true} ticking={true}>/Intro</TypewriterText>
+                        <TypewriterText hover={true} ticking={true}>/intro</TypewriterText>
                     </button>
                     <button className="option" onClick={() => changeViewer('alpha')}>
-                        <TypewriterText hover={true} ticking={true}>/Alpha</TypewriterText>
+                        <TypewriterText hover={true} ticking={true}>/alpha</TypewriterText>
                         </button>
                     <button className="option" onClick={() => changeViewer('beta')}>
-                        <TypewriterText hover={true} ticking={true}>/Beta</TypewriterText>
+                        <TypewriterText hover={true} ticking={true}>/beta</TypewriterText>
                         </button>
-                    <button className="option" onClick={() => changeViewer('prompt')}>
-                        <TypewriterText hover={true} ticking={true}>/Example</TypewriterText>
+                    <button className="option" onClick={() => changeViewer('museum')}>
+                        <TypewriterText hover={true} ticking={true}>/museum</TypewriterText>
                         </button>
                 </div>
             </div>  

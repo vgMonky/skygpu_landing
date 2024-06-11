@@ -1,0 +1,11 @@
+Message: sent by: Joel
+prompt: "sent by: Joel
+prompt: "orion constellation, alex gray art style, trippy art, Resident Evil head Sagittarius archer and shoulders portrait, 8k resolution concept art portrait by Greg Rutkowski, Artgerm, WLOP, Alphonse Mucha dynamic lighting hyperdetailed in..."
+(full prompt too big to show on reply...)
+seed: 635821254
+iterations: 66
+size: [512, 512]
+guidance: 7.5
+algo: nousr/robo-diffusion
+euler ancestral discrete
+URL: none

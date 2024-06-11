@@ -1,0 +1,9 @@
+Message: prompt: "cyber fucking fauci punk as bitch"
+seed: 7.819506159291731e+16
+step: 35.0
+guidance: 9.0
+algo: "ink"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none

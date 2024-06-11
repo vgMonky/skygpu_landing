@@ -19,7 +19,7 @@ const NavBar = () => {
                 <span className="navbar-title"><TypewriterText>SKYNET.GPU</TypewriterText></span>
             </div>
                 <a href="#" className="navbar-link" onClick={toggleMenu}>
-                    <TypewriterText hover={true} ticking={true}>/Root</TypewriterText>   
+                    <TypewriterText hover={true} ticking={true}>/root</TypewriterText>   
                 </a>
                 {isMenuOpen && <Menu />} {/* Show Menu component when isMenuOpen is true */}
         </div>

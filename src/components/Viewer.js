@@ -7,6 +7,7 @@ import IntroView from './view_content/introView';
 import AlphaView from './view_content/alphaView';
 import BetaView from './view_content/betaView';
 import Prompt from './view_content/prompt';
+import MuseumView from './view_content/museumView';
 
 const Viewer = () => {
     const { viewerState } = useViewerState(); // Get the viewer state using the custom hook
@@ -26,8 +27,8 @@ const Viewer = () => {
         case 'beta':
             content = <BetaView/>;
             break;
-        case 'prompt':
-            content = <Prompt/>;
+        case 'museum':
+            content = <MuseumView/>;
             break;
         default:
             content = <TypewriterText>...waiting for selection.</TypewriterText>;

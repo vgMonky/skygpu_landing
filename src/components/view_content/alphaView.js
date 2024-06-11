@@ -36,7 +36,7 @@ const AlphaView = () => {
 
         <button className="learn-more" onClick={handleLearnMoreClick}>
           <TypewriterText hover={true} ticking={true} orange={true}>
-            /Try_the_Alpha
+            /try_the_alpha
           </TypewriterText>
         </button>
 

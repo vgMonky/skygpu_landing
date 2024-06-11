@@ -1,0 +1,10 @@
+Message: sent by: Tío Vic
+prompt: "cat surrealism, Lycergic reflection,black and white trippy art, 8k resolution concept, realistic, professional"
+seed: 687217792
+iterations: 40
+size: [512, 512]
+upscaler: x4
+guidance: 7.0
+algo: nousr/robo-diffusion
+euler ancestral discrete
+URL: none

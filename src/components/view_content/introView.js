@@ -40,7 +40,7 @@ const IntroView = () => {
 
         <button className="learn-more" onClick={handleLearnMoreClick}>
           <TypewriterText hover={true} ticking={true} orange={true}>
-            /Learn_More
+            /learn_more
           </TypewriterText>
         </button>
 
