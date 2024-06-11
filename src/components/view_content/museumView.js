@@ -31,8 +31,10 @@ const MuseumView = () => {
       fetch(texts[index])
           .then(response => response.text())
           .then(text => {
+              // Remove the "Message: " part if it exists
+              const cleanedText = text.replace(/^Message:\s*/, '');
               setSelectedImage(image);
-              setSelectedText(text);
+              setSelectedText(cleanedText);
               setShowCard(true);
           });
   };
@@ -55,7 +57,7 @@ const MuseumView = () => {
       <div className="view-body">
         <p>
           <TypewriterText speed={10}>
-          This images are part of the museum gallery. Check them out or feel free to generate more.
+          These images are part of the museum gallery. Check them out or feel free to generate more.
           </TypewriterText>
         </p>
 
@@ -96,7 +98,3 @@ const MuseumView = () => {
 };
 
 export default MuseumView;
-
-
-
-

@@ -85,6 +85,7 @@
 .card-text {
     margin-top: 10px;
     font-size: 16px;
+    white-space: pre-wrap;
 }
 
 .backdrop {
