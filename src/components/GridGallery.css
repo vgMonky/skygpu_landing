@@ -96,3 +96,21 @@
 .close-button:hover {
     background-color: darkgreen;
 }
+
+
+
+
+@media (max-width: 800px) {
+    .card {
+        max-width: 300px;
+        padding: 20px;
+        position: absolute;
+    }
+    .card-image {
+        max-width: 300px;
+        height: auto;
+    }
+
+  }
+
+
