@@ -30,8 +30,7 @@ Web page in the style of a retro terminal, containing all Skygpu.net basic infor
 
 ### Mobile Corrections:
 - [x] Clicking read-more scroll behaviour.
-- [ ] Cards to big for small mobile.
-- [ ] Keep testing...
+- [x] Cards to big for small mobile.
 
 ### Desktop:
 - [x] click on a menu -> close menu.
