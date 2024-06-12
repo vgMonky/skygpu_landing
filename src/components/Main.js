@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import React, { useRef, useEffect } from 'react';
 import './Main.css';
 import { useMain } from '../states/main_state'; // adjust the path as necessary
 import Selector from './Selector';
@@ -12,6 +12,11 @@ import Museum from './main_content/museum';
 const Main = () => {
     const { currentMain } = useMain();
     const viewerRef = useRef(null);
+
+    useEffect(() => {
+        // Scroll to the top of the page when currentMain changes
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }, [currentMain]);
 
     if (currentMain === "home_main") {
         return (
