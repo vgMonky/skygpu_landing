@@ -15,7 +15,7 @@ Web page in the style of a retro terminal, containing all Skygpu.net basic infor
 ### Images:
 - [x] Grid gallery.
 - [x] Card preview.
-- [ ] Close-card x button.
+- [x] Close-card x button.
 - [ ] Img optimization.
 - [ ] Add full museum.
 
@@ -29,12 +29,12 @@ Web page in the style of a retro terminal, containing all Skygpu.net basic infor
 - [ ] Star* Selected Menu
 
 ### Mobile Corrections:
-- [ ] Clicking read-more scroll behaviour.
+- [x] Clicking read-more scroll behaviour.
 - [ ] Cards to big for small mobile.
 - [ ] Keep testing...
 
 ### Desktop:
-- [ ] click on a menu -> close menu.
+- [x] click on a menu -> close menu.
 - [ ] Layout/frame widen.
 - [ ] Focus options with arrows.
 - [ ] Return key to enter.
