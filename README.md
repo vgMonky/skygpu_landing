@@ -23,8 +23,9 @@ Web page in the style of a retro terminal, containing all Skygpu.net basic infor
 - [ ] Curved Screen Shader
 - [x] CRT Texture FX
 - [ ] Click selection sound.
-- [ ] Constant back white noice.
-- [ ] FX setting menu.
+- [ ] Constant back white noise.
+- [ ] Type sound
+- [ ] FX setting menu (toggled on/off)
 - [ ] Star* Selected Menu
 
 ### Mobile Corrections:
