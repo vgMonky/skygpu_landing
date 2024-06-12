@@ -30,11 +30,12 @@ Web page in the style of a retro terminal, containing all Skygpu.net basic infor
 
 ### Mobile Corrections:
 - [ ] Clicking read-more scroll behaviour.
+- [ ] Cards to big for small mobile.
 - [ ] Keep testing...
 
 ### Desktop:
-- [ ] click on a menu -> close.
-- [ ] Layout/frame widen
-- [ ] Focus options with arrows
+- [ ] click on a menu -> close menu.
+- [ ] Layout/frame widen.
+- [ ] Focus options with arrows.
 - [ ] Return key to enter.
 - [ ] Esc key to open root menu.
