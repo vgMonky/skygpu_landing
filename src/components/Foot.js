@@ -8,7 +8,7 @@ const Foot = () => {
     return (
         <div className="foot" >
             <div className='icons'>
-                <a href='https://testnet.skygpu.net/v2/explore/' target="_blank" rel="noopener noreferrer">
+                <a href='' >
                 <img src="https://avatars.githubusercontent.com/u/151031767?s=64&v=4" alt="Icon"  className="navbar-icon"></img>
                 </a>
                 <a href='https://t.me/skynetgpu' target="_blank" rel="noopener noreferrer">
