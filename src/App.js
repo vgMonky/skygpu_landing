@@ -6,6 +6,7 @@ import Main from './components/Main';
 import Foot from './components/Foot';
 import { ViewerStateProvider } from './states/viewer_state';
 import './fx/CRT.css'
+import BabylonScene from './fx/BabylonScene'; // Import the Babylon.js scene component
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <MainProvider>
         <ViewerStateProvider>
           <NavBar/>
+          <BabylonScene/>
           <Main/>
           <Foot/>
         </ViewerStateProvider>
