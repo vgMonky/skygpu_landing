@@ -17,6 +17,7 @@
 .grid-image:hover {
     transform: scale(1.1); /* Scale the image to 1.2 times its original size */
 }
+
 .black-box {
     width: 400px; /* Adjust this to match the card's max width */
     height: auto;
@@ -27,7 +28,6 @@
     align-items: center;
 }
 
-
 .loading {
     position: fixed;
     top: 50%;
@@ -36,8 +36,6 @@
     color: var(--color-3);
     z-index: 1000; /* Make sure it's above other elements */
 }
-
-
 
 .card {
     max-width: 400px;
@@ -77,6 +75,24 @@
     backdrop-filter: blur(5px); /* Adjust the blur radius as needed */
 }
 
+.close-button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background: var(--color-1);
+    color: var(--color-3);
+    border: none;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 600;
+}
 
-
-
+.close-button:hover {
+    background-color: darkgreen;
+}

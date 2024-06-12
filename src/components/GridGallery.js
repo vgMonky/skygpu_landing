@@ -38,6 +38,11 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
     setShowCard(false);
   };
 
+  const handleCloseButtonClick = (event) => {
+    event.stopPropagation();
+    setShowCard(false);
+  };
+
   return (
     <div className="grid-gallery">
       {showCard && <div className="backdrop" onClick={handleBackdropClick}></div>}
@@ -54,6 +59,7 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
       </div>
       {showCard && (
         <div className="card" onClick={handleCardClick}>
+          <button className="close-button" onClick={handleCloseButtonClick}>X</button>
           {loading ? (
             <div className="black-box">Loading...</div>
           ) : (
