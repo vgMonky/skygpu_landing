@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import './GridGallery.css';
 
 // Dynamically import all images and text files from the museum folder
@@ -11,6 +11,13 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
   const [selectedText, setSelectedText] = useState('');
   const [showCard, setShowCard] = useState(false);
   const [loading, setLoading] = useState(false);
+  const cardRef = useRef(null);
+
+  useEffect(() => {
+    if (showCard && cardRef.current) {
+      cardRef.current.scrollIntoView({ behavior: 'smooth' });
+    }
+  }, [showCard]);
 
   const handleImageClick = (image, index, event) => {
     event.stopPropagation();
@@ -58,7 +65,7 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
         ))}
       </div>
       {showCard && (
-        <div className="card" onClick={handleCardClick}>
+        <div className="card" onClick={handleCardClick} ref={cardRef}>
           <button className="close-button" onClick={handleCloseButtonClick}>X</button>
           {loading ? (
             <div className="black-box">Loading...</div>
