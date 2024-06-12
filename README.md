@@ -26,7 +26,7 @@ Web page in the style of a retro terminal, containing all Skygpu.net basic infor
 - [ ] Constant back white noise.
 - [ ] Type sound
 - [ ] FX setting menu (toggled on/off)
-- [ ] Star* Selected Menu
+- [x] Star* Selected Menu
 
 ### Mobile Corrections:
 - [x] Clicking read-more scroll behaviour.
@@ -34,7 +34,7 @@ Web page in the style of a retro terminal, containing all Skygpu.net basic infor
 
 ### Desktop:
 - [x] click on a menu -> close menu.
-- [ ] Layout/frame widen.
+- [x] Layout/frame widen.
 - [ ] Focus options with arrows.
 - [ ] Return key to enter.
-- [ ] Esc key to open root menu.
+- [ ] Esc key to open and scroll to root menu.
