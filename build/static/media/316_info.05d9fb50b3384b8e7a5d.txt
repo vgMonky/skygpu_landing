@@ -1,0 +1,14 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by animus2.boid
+reward: 20.0000 GPU
+prompt: spirit cyber robot, very detailed bio engineering, punk like cyber phantom. Very detailed oil painting with strokes and adrenaline
+seed: 520741257
+step: 35
+guidance: 8
+strength: 0.5
+algo: nousr/robo-diffusion
+upscaler: x4
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/d62f7c1f6915addb2ff7eb57f8b92c8d16e5c357efe1d9888b3a7360a591988b

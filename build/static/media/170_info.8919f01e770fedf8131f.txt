@@ -1,0 +1,10 @@
+Message: by @VictoriaTelos
+prompt: "peacock with crown"
+seed: 1.4849671306527859e+19
+step: 36.0
+guidance: 7.0
+strength: 0.5
+algo: "ink"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

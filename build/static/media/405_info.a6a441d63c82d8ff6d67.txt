@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by worker2.scd
+reward: 20.0000 GPU
+prompt: processing system abort
+seed: 1747850739
+step: 27
+guidance: 8
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/e2c7e17eb7ea8279c2227927484b5528419040d247dedb98816725e008e01853

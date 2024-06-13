@@ -1,0 +1,14 @@
+Message: Get your image on IPFS
+SKYNET Transaction Explorer
+by @guilledk
+performed by testworker1
+reward: 20.0000 GPU
+prompt: abstract art skynet terminator retro pixel art
+seed: 2016770322
+step: 25
+guidance: 7.5
+strength: 0.5
+algo: midj
+Made with Skynet v0.1a9
+JOIN THE SWARM: @skynetgpu
+URL: https://ipfs.ancap.tech/ipfs/QmXtKGpNTtufXC5XTMJkmzgtprFHCvPT8wqcQbB1NyC7z6/image.png

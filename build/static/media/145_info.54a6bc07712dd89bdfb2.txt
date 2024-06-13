@@ -1,0 +1,9 @@
+Message: prompt: "bill murray, robot, head and shoulders, wires, machinery, satellites, hyper realistic, hyper detailed, borg, 4k, cyber fucking punk, dystopia"
+seed: 5.6006940057560864e+17
+step: 35.0
+guidance: 8.0
+algo: "ink"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none

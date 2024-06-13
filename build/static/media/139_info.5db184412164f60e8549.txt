@@ -1,0 +1,9 @@
+Message: prompt: "human with satellite for head, star trek, hyper trippy, half robot, portrait of Patrick Stewart"
+seed: 6.022918937102842e+18
+step: 35.0
+guidance: 8.0
+algo: "robot"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none

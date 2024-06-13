@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @zoltaniam
+performed by testworker2
+reward: 20.0000 GPU
+prompt: skynet terminator skull, pixel art, neon colores, skull pineapple
+seed: 1106813420
+step: 27
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/1540904cc1d5f941efa4b2068248a7cbe4fe0b4b4dcc06a6455b3e54e2541486

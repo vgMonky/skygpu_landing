@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @CesarGou
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: imagine all the people, living on the way, brushstrokes, eyecatchong detail, surrealistic trend
+seed: 2744430175
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/829d70cf576c510b9f99b555179a40337f7b3cc773ae604c811b780cb9fad250

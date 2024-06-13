@@ -1,0 +1,14 @@
+Message: Get your image on IPFS
+SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: acid zebra, black and white trippy acid art, black and white surrealism, cinematic light, HD 8k
+seed: 20902093
+step: 35
+guidance: 5
+strength: 0.5
+algo: ink
+Made with Skynet v0.1a9
+JOIN THE SWARM: @skynetgpu
+URL: http://test1.us.telos.net:8080/ipfs/QmS29SSjx2GQWkn8feuXxi4ytbyXTo9ocSR16nrvq5Ddfj/image.png

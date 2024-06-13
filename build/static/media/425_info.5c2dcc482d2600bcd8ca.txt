@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @VictoriaTelos
+performed by testworker2
+reward: 20.0000 GPU
+prompt: female terminator, crimson lips, dark glasses, blonde hair with waves, pink, white, metal and black gradient color.
+seed: 1470725443
+step: 32
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/208e71c6e6648590b2b637dd47d5b5e14c7c4620d3b164209a002b33115e6718

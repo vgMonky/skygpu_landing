@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @m0mosh
+performed by testworker2
+reward: 20.0000 GPU
+prompt:  a woman, cyberpunk vaporwave pixel diffusion, devilcore
+seed: 3531045886
+step: 20
+guidance: 10
+strength: 0.5
+algo: snowkidy/stable-diffusion-xl-base-0.9
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/ab38760e5b2b07af6ce7be215ff3bf641c1bae6be8b9cd0d062e331260d8b291

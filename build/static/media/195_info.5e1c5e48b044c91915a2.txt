@@ -1,0 +1,11 @@
+Message: by @TioVic
+prompt: "black and white trippy cyberpunk alien nude naked, frequency wave alien, trippy place and white illustration, surrealism, very detailed skin, 8k, soft shadows, HD high definition"
+seed: 8.525717254434991e+18
+step: 65.0
+guidance: 8.0
+strength: 0.5
+algo: "ink"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

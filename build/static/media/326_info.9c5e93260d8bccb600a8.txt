@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @torresnelson1
+performed by testworker2
+reward: 20.0000 GPU
+prompt: The Gemini rocket soars through the sky, its nose cone sharply pointed towards the heavens. A visible shockwave forms around it, the signature of breaking the sound barrier. The sky has transitioned from dawn to morning light, a brilliant blue canvas again
+seed: 337210088
+step: 34
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/ec807552cb5ac4dd256e5e5492801bda81875a4ecd94e15943b16ce5f3df6793

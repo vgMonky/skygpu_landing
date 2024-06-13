@@ -1,0 +1,10 @@
+Message: by @Infinityblocio
+prompt: "MLK Portrait, age 25, cinematic production still, 8K, HD, cinematography, photorealistic, epic composition, Cinematic, color grading, portrait photography, ultra wide angle, depth of field, hyper detailed, beautifully coloured, crazy details, intricate det"
+seed: 1.3162816343507943e+19
+step: 35.0
+guidance: 7.5
+strength: 0.5
+algo: "midj"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: moving of flow, shader, oil on canvas, painting strokes, cool wave synth, black and neon
+seed: 4269690207
+step: 20
+guidance: 8
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/7ba04f988ce189c55c54ee744f581583a60c3d12cf8ee30dedaf7aaa44278742

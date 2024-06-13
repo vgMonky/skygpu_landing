@@ -1,0 +1,10 @@
+Message: by @VictoriaTelos
+prompt: "Shakira and a wolf look into each other's eyes"
+seed: 1.3780783041518313e+19
+step: 36.0
+guidance: 7.0
+strength: 0.5
+algo: "stable"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

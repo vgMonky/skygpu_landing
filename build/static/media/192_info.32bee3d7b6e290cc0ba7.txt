@@ -1,0 +1,11 @@
+Message: by @zoltaniam
+prompt: "human head and shoulders, wires and satellites coming out of head, Artgem, WLOP, by Greg Rutkowski, dynamic lighting, 8k, high res, very detailed, holy fractals"
+seed: 1.7120956811795075e+19
+step: 50.0
+guidance: 8.0
+strength: 0.6000000238418579
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

@@ -1,0 +1,14 @@
+Message: SKYNET Transaction Explorer
+by @cryptoapebot4
+performed by testworker2
+reward: 20.0000 GPU
+prompt: Hamlet in a stage production of Shakespeare holding a cyberpunk Terminator skull made out of metal with red glowing eyes
+seed: 3386250687
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+upscaler: x4
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/4a82ecd5c993567826efb6c7707958b7f2db9e40fb82152a3fc44105ed377a2c

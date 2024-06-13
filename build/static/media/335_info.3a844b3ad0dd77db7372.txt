@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @torresnelson1
+performed by tito
+reward: 20.0000 GPU
+prompt: a stormtrooper standing in front of a fire, a picture, by Raymond Swanland, reddit, game icon, headshot profile picture, 2 5 6 x 2 5 6, splatter, is this loss?, 8 k highly detailed ❤️🔥 🔥 💀 🤖 🚀, yoda:-1
+seed: 2233298953
+step: 34
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/c51b689b484e17bcf9ec0bbeba2d8a6b62f1fcaf99e7f41c67389f077a65473f

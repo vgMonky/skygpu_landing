@@ -1,0 +1,9 @@
+Message: sent by: Tío Vic
+prompt: "clown blowing his brain with a gun, blood splah, surrealist painting, trippy style,"
+seed: 720279947
+iterations: 40
+size: [512, 512]
+guidance: 9.0
+algo: Envvi/Inkpunk-Diffusion
+euler ancestral discrete
+URL: none

@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @cryptoapebot4
+performed by testworker2
+reward: 20.0000 GPU
+prompt: futuristic nuclear explosion fugure war neon colors dark background pixel art
+seed: 3979151909
+step: 28
+guidance: 9
+strength: 0.35999999999999998667732370449812151491641998291015625
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/1a541ec5149e2b5c94bc6a48a9d40c4f5f05a8122559a8065559b910eddf853c

@@ -1,0 +1,9 @@
+Message: sent by: g u i l l e
+prompt: "dimethyltryptamine gas masked chernobyl liquidator geiger counter"
+seed: 185551418
+iterations: 28
+size: [512, 512]
+guidance: 8.0
+algo: prompthero/openjourney
+euler ancestral discrete
+URL: none

@@ -1,0 +1,11 @@
+Message: by @TioVic
+prompt: "surrealism trippy mushroom anatomy , HD 8k resolution concept art by Edinburgh Painter,  OFF CAMERA FLASH  hyperdetailed intricately detailed Splash art triadic colors Unreal Engine 5 volumetric"
+seed: 3.7293895075152184e+18
+step: 100.0
+guidance: 4.0
+strength: 0.5
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

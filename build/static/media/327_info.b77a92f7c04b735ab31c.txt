@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @Nikozzzzz
+performed by testworker1
+reward: 20.0000 GPU
+prompt: vader' rage scene, desolation ,beksinski style
+seed: 1669858695
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/4cbf58f154a32612680a0bcf8a36aae64c94c7815098bcc18284e55416764117

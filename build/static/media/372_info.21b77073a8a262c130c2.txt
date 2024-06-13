@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by manu id: 1336865376
+performed by animus2.boid
+reward: 20.0000 GPU
+prompt: soul catharsis mariuz lewabdowski oil painting
+seed: 2903063171
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/c8880729e5de4dd8e9e1fd2ee5336ac78782fd80a50a09363cf6ed7543911200

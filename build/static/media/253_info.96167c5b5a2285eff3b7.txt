@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: Gray war, red bucket head soldiers, war propaganda, HD 8k intricate details
+seed: 2095265835
+step: 35
+guidance: 7
+strength: 0.59999999999999997779553950749686919152736663818359375
+algo: snowkidy/stable-diffusion-xl-base-0.9
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/b05cec00f18cb3ca6c2ce6a6351fe1619e181cd7921e93038c185161d3b37fe4

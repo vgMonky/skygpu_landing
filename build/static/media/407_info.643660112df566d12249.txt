@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @guilledk
+performed by testworker2
+reward: 20.0000 GPU
+prompt: rooster with sunglases sonora desert hunter s thomson poster
+seed: 1156615171
+step: 34
+guidance: 7.5
+strength: 0.299999999999999988897769753748434595763683319091796875
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/e9711a00464f44c1ffbbc4c59a5c7f4386691fe3e5726ed4c4cec0382c06614b

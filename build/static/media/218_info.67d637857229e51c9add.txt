@@ -1,0 +1,11 @@
+Message: by @TioVic
+prompt: "mushroom growth process, Darwin evolution style, DaVinci drawing very detailed, HD 8k"
+seed: 1.5355031117226435e+19
+step: 45.0
+guidance: 8.0
+strength: 0.75
+algo: "stable"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

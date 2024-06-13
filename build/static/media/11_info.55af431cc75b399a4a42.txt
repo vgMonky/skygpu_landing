@@ -1,0 +1,9 @@
+Message: prompt: "robot cyberpunk matrix city"
+sent by: @agu3000
+iterations: 45
+size: (512, 512)
+seed: 693551551
+guidance: 7.5
+stable-diff v1.5 uncensored
+euler ancestral discrete
+URL: None

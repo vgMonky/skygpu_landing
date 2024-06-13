@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @m0mosh
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: a girl with black hair, snakes, plants, green and orange color, katsuhiro otomo art, fantasy, minimalist, ultra realistic
+seed: 3065117345
+step: 26
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/fb020b8ba6a6c03d3d54ee70fcf9cf2ad4c4570e12fd5e8ea969ddb6deed4571

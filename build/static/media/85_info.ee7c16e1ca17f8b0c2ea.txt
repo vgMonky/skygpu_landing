@@ -1,0 +1,9 @@
+Message: sent by: Tío Vic
+prompt: "DJ trippy acid dmt vibration galaxy, black and white, live nature, surrealism, black and white, lysergic details, electrical vibration vfx, sound waves, 8k, professional painting"
+seed: 156412424
+iterations: 40
+size: [512, 512]
+guidance: 2.0
+algo: prompthero/openjourney
+euler ancestral discrete
+URL: none

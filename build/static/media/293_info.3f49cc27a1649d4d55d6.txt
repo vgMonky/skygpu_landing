@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @cryptoapebot4
+performed by testworker2
+reward: 20.0000 GPU
+prompt: a historian staring at a bookshelf, blade runner 2049 aesthetic, deep blue hue
+seed: 4017945091
+step: 35
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/f4f1ab2c7d91e2fbf320e28147de68e2cb39005a0a4e34656b8f460e49ce2ded

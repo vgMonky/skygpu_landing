@@ -1,0 +1,9 @@
+Message: sent by: Tío Vic
+prompt: "particle cyberpunk alien astronaut DJ, fucking crazy, skin detailed, 3d professional character design, 8k, lysergic trippy waves background"
+seed: 743453532
+iterations: 40
+size: [512, 512]
+guidance: 3.0
+algo: Envvi/Inkpunk-Diffusion
+euler ancestral discrete
+URL: none

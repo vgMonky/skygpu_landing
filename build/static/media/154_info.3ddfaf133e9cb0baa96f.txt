@@ -1,0 +1,9 @@
+Message: prompt: "skynet terminattor"
+seed: 1.027707277125179e+19
+step: 28.0
+guidance: 6.0
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none

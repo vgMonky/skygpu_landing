@@ -1,0 +1,14 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: acid trip, matrix Mr anderson painting, plastic strokes portrait
+seed: 2754423937
+step: 35
+guidance: 10
+strength: 0.59999999999999997779553950749686919152736663818359375
+algo: stabilityai/stable-diffusion-xl-base-1.0
+upscaler: x4
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/8f80b41ee675470edf7e0584144763524d653139fcd84d3434e3ec00802a2c6e

@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @tlccstudio
+performed by animus2.boid
+reward: 20.0000 GPU
+prompt: highly detailed pixel art retrowave rendition of Jesus on the clouds with rainbow background, bad pixilated graphics in the styles of Super Metroid
+seed: 338321715
+step: 33
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/ad6cbdf69572f2fa61fc520f1125d407f4f2ed65a69683f45a61331471a098fa

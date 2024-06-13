@@ -1,0 +1,11 @@
+Message: by @TioVic
+prompt: "electrical shock, super rare, old Bauhaus poste advertising design, trippy surrealism Lucy in the skynet"
+seed: 5.4675832028570304e+17
+step: 65.0
+guidance: 8.0
+strength: 0.5
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

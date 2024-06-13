@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @I_Seth
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: Stained glass window of a robot goddess under the moon and stars
+seed: 3491434547
+step: 25
+guidance: 7.5
+strength: 0.9899999999999999911182158029987476766109466552734375
+algo: prompthero/openjourney
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/556b7dac9e51149eb0060e15ef092393b77ab9cc48b8d3dbc6e2fd8c634e2e76

@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @zoltaniam
+performed by testworker3
+reward: 20.0000 GPU
+prompt: pepe da ferg, metal slurg
+seed: 1867778517
+step: 35
+guidance: 7.5
+strength: 0.5
+algo: prompthero/openjourney
+Made with Skynet v0.1a10
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/5ebecddf7d4d2ed8499c335153a8a425d437cc25eef99eb0135a64164756c652

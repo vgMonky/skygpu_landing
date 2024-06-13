@@ -1,0 +1,9 @@
+Message: sent by: g u i l l e
+prompt: "cyberpunk necromancer skynet skull cybernetic"
+seed: 415550347
+iterations: 28
+size: [512, 512]
+guidance: 10.0
+algo: prompthero/openjourney
+euler ancestral discrete
+URL: none

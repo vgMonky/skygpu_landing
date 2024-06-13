@@ -1,0 +1,11 @@
+Message: by @TioVic
+prompt: "the patern of the universe, black and white bipolar psicodelia vibrations, abstract surrealist painting, dynamic light, trippy strokes, HD 8k"
+seed: 1.6488495788357937e+19
+step: 65.0
+guidance: 8.0
+strength: 0.5
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

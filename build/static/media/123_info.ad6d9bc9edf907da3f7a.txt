@@ -1,0 +1,8 @@
+Message: prompt: "daftpunk general dmt toxic wasteland"
+seed: 2.5352573291917885e+18
+step: 35.0
+guidance: 9.0
+algo: "ink"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none

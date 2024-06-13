@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by Dilara id: 5682300447
+performed by testworker2
+reward: 20.0000 GPU
+prompt: a man begging to God for forgiveness
+seed: 3604380174
+step: 28
+guidance: 10
+strength: 0.5
+algo: runwayml/stable-diffusion-v1-5
+Made with Skynet v0.1a10
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/9389a141839c9ee3f15b2d67db4255c7f3d4348301daeded07afe56c0749469a

@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by Nicolas id: 6396513684
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: fútbol romano
+seed: 4065076569
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/4095d1fb8ab26946a0bd4d1fff6b4aa4995a7ec969d02a1142f91391b88b039f

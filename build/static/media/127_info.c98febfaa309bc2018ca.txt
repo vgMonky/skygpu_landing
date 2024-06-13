@@ -1,0 +1,9 @@
+Message: prompt: "cyberpunk woman wizard solar flare face lysergic"
+seed: 1.6364984446275994e+17
+step: 35.0
+guidance: 8.0
+algo: "ink"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none

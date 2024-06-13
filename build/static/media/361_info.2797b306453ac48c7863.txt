@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @zoltaniam
+performed by testworker2
+reward: 20.0000 GPU
+prompt: cyber punk synthwave Robert de Niro, cigar mafia business man. Alleyway, smoke, city lights, oil on canvas
+seed: 3744522270
+step: 25
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/8d3121da4ee67c0c7498999675ce8de139150bf15604b951727f8b924a9e5b1c

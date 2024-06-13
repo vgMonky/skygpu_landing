@@ -1,0 +1,10 @@
+Message: by @VictoriaTelos
+prompt: "comics, distressed man with hands on head, computer, sitting, comics style"
+seed: 1.38284169624547e+19
+step: 65.0
+guidance: 16.0
+strength: 0.44999998807907104
+algo: "midj"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

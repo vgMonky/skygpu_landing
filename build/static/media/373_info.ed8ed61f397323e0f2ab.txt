@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by manu id: 1336865376
+performed by animus2.boid
+reward: 20.0000 GPU
+prompt: unpluggin from the matrix by Mariusz Lewandowski
+seed: 2432976614
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/17b131373f42309ba28a5e06ad1cd313b685eee5890a2b4aae085d6aef951c23

@@ -1,0 +1,10 @@
+Message: by @VictoriaTelos
+prompt: "air transport of the future, futuristic, planes, runways, air pilots, advanced technology"
+seed: 1.2567789101512229e+19
+step: 36.0
+guidance: 7.0
+strength: 0.5
+algo: "waifu"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

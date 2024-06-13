@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @m0mosh
+performed by testworker2
+reward: 20.0000 GPU
+prompt: a raccoon with a red hat, isometric pixel art, 64x64, digital art, cityscape
+seed: 1598475112
+step: 20
+guidance: 10
+strength: 0.5
+algo: snowkidy/stable-diffusion-xl-base-0.9
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/ba62c8ce3185ce09cafe383a3e1f8e4e6c8c12b77668b9b298b3fdeb68d0cffc

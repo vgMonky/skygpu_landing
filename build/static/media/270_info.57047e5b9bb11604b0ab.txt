@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @zoltaniam
+performed by testworker2
+reward: 20.0000 GPU
+prompt: isometric pixel art, bedroom, two owls in bed with night caps, a bedside table, with an alarm. Cuckoo clock on the wall, Persian rug
+seed: 153070398
+step: 35
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/7e77237b5831db6c6a4454e35b37a43a8baf0c91f98d5c98da7a73c334fcb272

@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @matias_94
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: photo of a huge explosion in the sky over a city, nuclear art
+seed: 2844945777
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/78402a57f35ab555cfca15aa1f5eef48f15a9426b40ce51508b1f8c6add45dcc

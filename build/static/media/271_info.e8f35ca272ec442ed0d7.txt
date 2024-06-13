@@ -1,0 +1,14 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: murder in Tokyo , black and white and red blood, crazy motherfucker
+seed: 2598320859
+step: 35
+guidance: 7
+strength: 0.59999999999999997779553950749686919152736663818359375
+algo: stabilityai/stable-diffusion-xl-base-1.0
+upscaler: x4
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/78350e504fb9dbf623f25350472ada4ac045b3fcf7053d48dbe96c2712d10172

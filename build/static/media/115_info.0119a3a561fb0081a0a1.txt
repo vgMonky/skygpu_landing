@@ -1,0 +1,8 @@
+Message: prompt: "kurdish commie wifu anime girl in the mountains"
+seed: 7.470872459988561e+18
+step: 35.0
+guidance: 7.0
+algo: "hdanime"
+sampler: k_euler_ancestral
+skynet v0.1a6
+URL: none

@@ -1,0 +1,11 @@
+Message: by @TioVic
+prompt: "Lucy in the sky with diamonds book cover, Dali surrealism, trippy acid DMT entity, HD 8k cover art"
+seed: 7.074740196087409e+18
+step: 65.0
+guidance: 7.0
+strength: 0.5
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @zoltaniam
+performed by testworker2
+reward: 20.0000 GPU
+prompt: cool rubber ducky isometric pixel art, one duck wearing sunglasses, terminator vibes
+seed: 793918529
+step: 35
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/4dceae3a8623d08427ef81bad22242a64d420b3138f57d77912b2544dfc48557

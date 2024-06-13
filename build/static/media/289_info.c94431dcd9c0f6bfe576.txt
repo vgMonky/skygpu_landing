@@ -1,0 +1,14 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: ancient spiritual nature tribe landscape, orange moon and purple night, strapped into vibrational waves. Yellow moon paint, purple blue colors, all keeping the goddes nature alive with dmt trip, oil on canvas, professional painting stroke, fractal painting
+seed: 4241348286
+step: 45
+guidance: 5
+strength: 0.38000000000000000444089209850062616169452667236328125
+algo: stabilityai/stable-diffusion-xl-base-1.0
+upscaler: x4
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/e729689c35ed8bedd9e57ce3b273228f88fb0547a119d5d01df4fa97aaad740f

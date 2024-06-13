@@ -1,0 +1,9 @@
+Message: sent by: Tío Vic
+prompt: "the yellow submarine, dali surrealism"
+seed: 123103866
+iterations: 40
+size: [512, 512]
+guidance: 7.0
+algo: Linaqruf/anything-v3.0
+euler ancestral discrete
+URL: none

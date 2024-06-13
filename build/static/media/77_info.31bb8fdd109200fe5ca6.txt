@@ -1,0 +1,9 @@
+Message: sent by: Ernesto
+prompt: "Satoshi nakamoto universe sky alien cypherpunk hacker"
+seed: 11535172
+iterations: 75
+size: [512, 512]
+guidance: 7.5
+algo: runwayml/stable-diffusion-v1-5
+euler ancestral discrete
+URL: None
