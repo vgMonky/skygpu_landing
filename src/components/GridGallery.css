@@ -41,6 +41,7 @@
 
 .card {
     max-width: 400px;
+    max-height: 80vh;
     position: fixed;
     top: 50%;
     left: 50%;
@@ -106,20 +107,7 @@
     .card {
         width: 80%; /* Adjust width as needed */
         max-width: 300px; /* Maximum width of the card */
-        max-height: 90vh;
-        padding: 20px;
-        position: fixed;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        border: 1px solid var(--color-3);
-        background-color: rgba(0, 0, 0, 0.897);
-        box-shadow:
-          0 0 5px rgba(0, 255, 0, 0.02),
-          0 0 10px rgba(0, 255, 0, 0.02),
-          0 0 20px rgba(0, 255, 0, 0.02),
-          0 0 40px rgba(0, 255, 0, 0.08);
-        z-index: 500;
+        max-height: 80vh;
     }
 
     .card-image {
