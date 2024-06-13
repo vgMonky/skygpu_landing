@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @matias_94
+performed by testworker2
+reward: 20.0000 GPU
+prompt: Cycodelic rastaman smoking weedsitting in a field with mountains in the background
+seed: 2011471398
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/68e739d1511011fcd8823a46b18f1a7889368d78cabc61c341f7e286c4fba772

@@ -1,0 +1,9 @@
+Message: sent by: Crypto
+prompt: "Andreas Achenbach, 1853, stormy sunset, la jolla, dark skyline, realistic"
+seed: 865017765
+iterations: 100
+size: [512, 512]
+guidance: 15.0
+algo: runwayml/stable-diffusion-v1-5
+euler ancestral discrete
+URL: none

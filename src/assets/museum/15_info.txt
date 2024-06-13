@@ -1,0 +1,10 @@
+Message: sent by: g u i l l e
+prompt: "a ultradetailed panting of convicted criminal agressor violent sunglasses travis bickle The thousand-yard stare or two-thousand-yard stare is a phrase often used to describe the blank, unfocused gaze of combatants who have become emotionally detached from ..."
+(full prompt too big to show on reply...)
+seed: 345931781
+iterations: 75
+size: [512, 512]
+guidance: 13.0
+stable-diff v1.5 uncensored
+euler ancestral discrete
+URL: none

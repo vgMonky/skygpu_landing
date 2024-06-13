@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @matias_94
+performed by testworker2
+reward: 20.0000 GPU
+prompt: a couple of lightnings that are in the sky, a picture, by Thomas Häfner, pexels contest winner, happening, extremely detailed photo, mobile wallpaper, epic scene of zeus, 8k))
+seed: 3486566525
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/8358bd7eed75abfcea472a3be7c4dbab88f7c35266d5b11142019f0af027a9d0

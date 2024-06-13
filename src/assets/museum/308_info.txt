@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @matias_94
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: a white cat wearing yellow glasses on a blue background, istock, ultrawide lens”, : 5 stylish, realistic photo”
+seed: 2863135918
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/3031caeeac9b3b03057459d9166e791c12ef96bd2dc35dfd4c51af45ee8d67e4

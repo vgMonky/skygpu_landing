@@ -1,0 +1,11 @@
+Message: by @zoltaniam
+prompt: "Darth Vader, Skynet, skull soviet propaganda poster, head and shoulders, by Dimitry Moor"
+seed: 8.512288832620787e+18
+step: 50.0
+guidance: 8.0
+strength: 0.6000000238418579
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

@@ -1,0 +1,9 @@
+Message: sent by: EaFryaFrea
+prompt: "knossi, caspar david friedrich style"
+seed: 327982099
+iterations: 75
+size: [512, 512]
+guidance: 7.5
+algo: runwayml/stable-diffusion-v1-5
+euler ancestral discrete
+URL: none

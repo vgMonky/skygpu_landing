@@ -1,0 +1,9 @@
+Message: prompt: "my best smile, red lips, include text year 2023, poster style, photography, daylight, professional, decorated."
+seed: 1.8314021038949749e+19
+step: 20.0
+guidance: 7.0
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a6
+URL: none

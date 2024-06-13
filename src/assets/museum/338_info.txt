@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @Boidcom
+performed by animus2.boid
+reward: 20.0000 GPU
+prompt: paper craft style, tristan eaton, victo ngai, artgerm, rhads, ross draws, Kaethe Butcher, Hajime Sorayama, Greg Tocchini, Virgil Finlay, sci-fi, colors, neon lights, digital painting, pixiv
+seed: 2558811286
+step: 35
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/267fdeb5afd47d1fd468543e9621100f135509387ace8130f26a79057a697c62

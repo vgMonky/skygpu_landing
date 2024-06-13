@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: purple smoke character, tetris pixel art, volumetric light, surrealist painting
+seed: 277709591
+step: 60
+guidance: 10
+strength: 0.38000000000000000444089209850062616169452667236328125
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/9fbba5faf3ce9be818ab976e74925e82d504a5f05df10e8ef2ce782f2bb99984

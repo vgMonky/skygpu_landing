@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @VictoriaTelos
+performed by testworker55
+reward: 20.0000 GPU
+prompt: a female android, emerald green eyes, deep red lips, long blue hair, black and gold colors.
+seed: 784791230
+step: 35
+guidance: 16
+strength: 0.5
+algo: snowkidy/stable-diffusion-xl-base-0.9
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/a69d9c0f837240b2c49f60bee963a98677db8a7d61e9eb77a504756b7f6dd845

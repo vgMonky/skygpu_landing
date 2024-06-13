@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker55
+reward: 20.0000 GPU
+prompt: soviet wanted propaganda poster dystopic terminator zombie skynet gray and green
+seed: 142460849
+step: 35
+guidance: 7
+strength: 0.59999999999999997779553950749686919152736663818359375
+algo: snowkidy/stable-diffusion-xl-base-0.9
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/267746832a3034a5e153932181f71ea38aabfdd9b5ce590c43b2c6cceb825398

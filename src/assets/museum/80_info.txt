@@ -1,0 +1,9 @@
+Message: sent by: Tío Vic
+prompt: "trippy acid black and white illustration magazine"
+seed: 185259551
+iterations: 40
+size: [512, 512]
+guidance: 12.0
+algo: Envvi/Inkpunk-Diffusion
+euler ancestral discrete
+URL: none

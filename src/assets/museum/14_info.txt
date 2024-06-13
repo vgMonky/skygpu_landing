@@ -1,0 +1,9 @@
+Message: sent by: g u i l l e
+prompt: "dimethyltryptamine jerome powell propaganda poster lucy in the sky with diamonds trippy"
+seed: 44958229
+iterations: 75
+size: [512, 512]
+guidance: 7.5
+stable-diff v1.5 uncensored
+euler ancestral discrete
+URL: None

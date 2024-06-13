@@ -1,0 +1,14 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: weed Japanese old man naked smoking weed cigarettes, surrealist painting with paint strokes
+seed: 3868091843
+step: 45
+guidance: 5
+strength: 0.38000000000000000444089209850062616169452667236328125
+algo: stabilityai/stable-diffusion-xl-base-1.0
+upscaler: x4
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/e4ea986f1bfb9566946815bdf47949b25b2eae49ee504afb590bb5c5a46a4049

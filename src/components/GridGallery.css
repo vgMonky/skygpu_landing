@@ -12,16 +12,18 @@
     height: auto;
     cursor: pointer;
     transition: transform 0.3s ease; /* Smooth transition for the scaling effect */
+    aspect-ratio: 1 / 1; /* Ensure the image container is always square */
+    object-fit: cover; /* Ensure the image covers the entire container without stretching */
 }
 
 .grid-image:hover {
-    transform: scale(1.1); /* Scale the image to 1.2 times its original size */
+    transform: scale(1.1); /* Scale the image to 1.1 times its original size */
 }
 
 .black-box {
     width: 400px; /* Adjust this to match the card's max width */
     height: auto;
-    aspect-ratio: 1; /* Maintain aspect ratio, change this if needed */
+    aspect-ratio: 1 / 1; /* Maintain aspect ratio, change this if needed */
     background-color: black;
     display: flex;
     justify-content: center;
@@ -56,7 +58,10 @@
 
 .card-image {
     max-width: 400px;
+    width: 100%;
     height: auto;
+    aspect-ratio: 1 / 1; /* Ensure the image container is always square */
+    object-fit: cover; /* Ensure the image covers the entire container without stretching */
 }
 
 .card-text {
@@ -97,9 +102,6 @@
     background-color: darkgreen;
 }
 
-
-
-
 @media (max-width: 800px) {
     .card {
         max-width: 300px;
@@ -108,9 +110,9 @@
     }
     .card-image {
         max-width: 300px;
+        width: 100%;
         height: auto;
+        aspect-ratio: 1 / 1; /* Ensure the image container is always square */
+        object-fit: cover; /* Ensure the image covers the entire container without stretching */
     }
-
-  }
-
-
+}

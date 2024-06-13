@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @torresnelson1
+performed by tito
+reward: 20.0000 GPU
+prompt: a man and a woman standing next to each other, flickr, in sun glasses, in jungle forest !!!, around 1 9 years old, on a road, zachary corzine, 2 0 0 2 photo, looking hot, california;, family photo, aketan, actress, touring, in a sunny day, with black, pic
+seed: 923404505
+step: 31
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/b5da8bf658bd512ea00164a1f950ffdf9001201872e09b6c2aa1f6098064fe1c

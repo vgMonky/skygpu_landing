@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @torresnelson1
+performed by tito
+reward: 20.0000 GPU
+prompt: a close up of a person wearing a helmet, concept art, unsplash, hurufiyya, star wars art deco, the mandalorian, textless, golden armor wearing, dark visor covering top of face, yellow helmet, boba fett, sleek glowing armor
+seed: 2871523629
+step: 34
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/5f0f634ad774771695c53b6beef0f5b434af0ef92323ead7473b73243573f687

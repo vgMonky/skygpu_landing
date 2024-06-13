@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @guilledk
+performed by testworker2
+reward: 20.0000 GPU
+prompt: bitcoin stained glass holy icon
+seed: 644900891
+step: 28
+guidance: 7.5
+strength: 0.520000000000000017763568394002504646778106689453125
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/ae235308b9abbf9461f7881d4248db025dbd744ff71df8ca27455180d38e8a13

@@ -1,0 +1,9 @@
+Message: sent by: Tío Vic
+prompt: "alien fucking cat, surrealism"
+seed: 295098871
+iterations: 40
+size: [512, 512]
+guidance: 9.0
+algo: Envvi/Inkpunk-Diffusion
+euler ancestral discrete
+URL: none

@@ -1,0 +1,9 @@
+Message: sent by: L
+prompt: "pixel big tree"
+seed: 247179615
+iterations: 45
+size: [512, 512]
+guidance: 7.5
+algo: runwayml/stable-diffusion-v1-5
+euler ancestral discrete
+URL: none

@@ -1,0 +1,9 @@
+Message: prompt: "female plant woman, hyper real, fantasy, hyper detailed, vegetation growing out of skin, head and shoulders, forest, sprite"
+seed: 1.236303651704388e+19
+step: 35.0
+guidance: 8.0
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none

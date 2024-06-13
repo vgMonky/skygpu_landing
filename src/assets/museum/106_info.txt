@@ -1,0 +1,9 @@
+Message: prompt: "soviet propaganda poster girl smiling harvesting wheat"
+seed: 1.601623653191823e+19
+step: 28.0
+guidance: 10.0
+algo: "hdanime"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a6
+URL: none

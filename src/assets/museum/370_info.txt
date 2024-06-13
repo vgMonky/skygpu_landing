@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @tlccstudio
+performed by animus2.boid
+reward: 20.0000 GPU
+prompt: a pixel art bedroom at night in the style of 8 bit synthwave, bad pixilated graphics, Super Metroid styles
+seed: 3167387637
+step: 35
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/46c44a2eaacef3a1fa8b13dbbe9a765b5d8033f8df5d9e7c95ba258c501ea765

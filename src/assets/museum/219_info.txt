@@ -1,0 +1,11 @@
+Message: by @TioVic
+prompt: "fungi nuclear cloud, Lucy in the sky with diamonds, surrealism acid tripp, studio Ghibli"
+seed: 2.5952811987483535e+18
+step: 45.0
+guidance: 8.0
+strength: 0.75
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

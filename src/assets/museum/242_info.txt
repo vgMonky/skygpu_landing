@@ -1,0 +1,14 @@
+Message: SKYNET Transaction Explorer
+by @guilledk
+performed by testworker2
+reward: 20.0000 GPU
+prompt: coin skynet skull engraved currency coin coin
+seed: 4169547974
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: snowkidy/stable-diffusion-xl-base-0.9
+upscaler: x4
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/bf11abb39d3a4fd439b9e62206cdd8bb5bf74ec78878be779fd820c1dcb2ea03

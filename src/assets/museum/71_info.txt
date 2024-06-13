@@ -1,0 +1,9 @@
+Message: sent by: EaFryaFrea
+prompt: "swimming ocean, jackson pollock style"
+seed: 738363143
+iterations: 75
+size: [512, 512]
+guidance: 7.5
+algo: runwayml/stable-diffusion-v1-5
+euler ancestral discrete
+URL: none

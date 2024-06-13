@@ -1,0 +1,9 @@
+Message: prompt: "travis bickle melancholic muted colors a post impresionist painting by Paul Cézanne, Henri Matisse and Vincent van Gogh"
+seed: 6.02052094769097e+18
+step: 28.0
+guidance: 7.0
+algo: "van-gogh"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none

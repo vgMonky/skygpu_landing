@@ -1,0 +1,11 @@
+Message: by @Joel_aldrich
+prompt: "head and shoulders portrait, 8k resolution concept art portrait by Greg Rutkowski, Artgerm, WLOP, Alphonse Mucha dynamic lighting hyperdetailed intricately detailed Splash art trending on Artstation triadic colors Unreal Engine 5 volumetric lighting The wi"
+seed: 4.875891901153813e+17
+step: 28.0
+guidance: 8.0
+strength: 0.5
+algo: "robot"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

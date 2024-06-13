@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: shoot gun doom FPS view pixel 128x128, distopia city. Travis bickle dystopic mood. First player shooter
+seed: 4254723525
+step: 25
+guidance: 8
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/48240e00f5879d7b64ec06df4cbbae9ab38a7aa66660cd81e867dffbbe0519ad

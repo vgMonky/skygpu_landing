@@ -1,0 +1,9 @@
+Message: sent by: g u i l l e
+prompt: "greek ancient building golden ornaments stained glass bitcoin logo greek school of thought detailed oil canvas"
+seed: 434074461
+iterations: 50
+size: [512, 512]
+guidance: 10.0
+stable-diff v1.5 uncensored
+euler ancestral discrete
+URL: none

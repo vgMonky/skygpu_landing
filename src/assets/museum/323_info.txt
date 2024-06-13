@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by AngryDude id: 6511367477
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: Beautiful beach with glassy waves, retro pop art, Hiroshi Senju style, with good skin, long legs, fit body, curvy hips, round butt, large eyes and small nose,Dilated pupils and redder lips lady, traditional dressing
+seed: 2086327948
+step: 35
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.testnet.skygpu.net/v2/explore/transaction/fc2f09a1ab22fce0dc3cfd89f1c2c04f406d519724d9c690ceb412e660bc05a9

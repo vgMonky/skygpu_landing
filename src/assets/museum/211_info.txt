@@ -1,0 +1,10 @@
+Message: by @VictoriaTelos
+prompt: "painting, woman in long dress, plunging neckline on the back, profile pose, a rose in her hand, short wavy hair, diamond earrings, emerald dress, various details, elegant style, oil painting"
+seed: 1.483456970854275e+18
+step: 65.0
+guidance: 20.0
+strength: 0.44999998807907104
+algo: "midj"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

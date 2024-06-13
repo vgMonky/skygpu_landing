@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @guilledk
+performed by testworker2
+reward: 20.0000 GPU
+prompt: dr manhattan soviet propaganda poster the watchmen dr manhattan blue god dystopic danger
+seed: 3229119399
+step: 28
+guidance: 12
+strength: 0.9899999999999999911182158029987476766109466552734375
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/3d2e1fa1579f943985ce20cb5979b4e543535ace2e6b9c55e753552a91e1d7c4

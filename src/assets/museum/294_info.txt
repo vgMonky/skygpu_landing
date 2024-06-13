@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: close up of a human eye made of tree skin, skin like tree bark, dark black pupil obsidian, chrysanthemum blooming out,surrealist oil on canvas, DMT breathing effects
+seed: 2825732430
+step: 35
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/9fad57eaf6d0c0603d32fb90d99435963371ec78ca7f33070e16877d353abe78

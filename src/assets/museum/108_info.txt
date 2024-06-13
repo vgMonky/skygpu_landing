@@ -1,0 +1,8 @@
+Message: prompt: "cyberpunk hacker wifu anime girl"
+seed: 7.040738266391177e+18
+step: 35.0
+guidance: 7.0
+algo: "hdanime"
+sampler: k_euler_ancestral
+skynet v0.1a6
+URL: none

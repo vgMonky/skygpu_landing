@@ -1,0 +1,11 @@
+Message: by @TioVic
+prompt: "senior cat cigarette, black and white trippy surrealism, HD 8k realistic"
+seed: 1.1497567482548398e+18
+step: 65.0
+guidance: 7.0
+strength: 0.5
+algo: "ink"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

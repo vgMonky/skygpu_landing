@@ -1,0 +1,9 @@
+Message: sent by: Tío Vic
+prompt: "system down"
+seed: 574678650
+iterations: 40
+size: [512, 512]
+guidance: 8.0
+algo: Linaqruf/anything-v3.0
+euler ancestral discrete
+URL: none

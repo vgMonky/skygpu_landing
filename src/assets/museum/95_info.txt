@@ -1,0 +1,9 @@
+Message: sent by: Tío Vic
+prompt: "black and white trippy cyberpunk alien nude naked, frequency wave alien, trippy place and white illustration, surrealism, very detailed skin, 8k, soft shadows, cinematic light"
+seed: 512072347
+iterations: 40
+size: [512, 512]
+guidance: 6.0
+algo: Envvi/Inkpunk-Diffusion
+euler ancestral discrete
+URL: none

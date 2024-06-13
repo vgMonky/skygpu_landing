@@ -1,0 +1,9 @@
+Message: sent by: Victoria
+prompt: "black and yellow pixel style cat"
+seed: 204708654
+iterations: 39
+size: [512, 512]
+guidance: 7.5
+algo: prompthero/openjourney
+euler ancestral discrete
+URL: none

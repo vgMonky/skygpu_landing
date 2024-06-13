@@ -1,0 +1,14 @@
+Message: SKYNET Transaction Explorer
+by @cryptoapebot4
+performed by testworker2
+reward: 20.0000 GPU
+prompt: john connor riding a motorcycle against a moon backdrop like in the movie ET
+seed: 384797848
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+upscaler: x4
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/5bf6c39638bb7fa6faa69505e87ef6ed934a0108c3db165b41ea48e7647f9bc3

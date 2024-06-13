@@ -1,0 +1,11 @@
+Message: by @zoltaniam
+prompt: "a wise wizard man with a stick, looking at the horizon, sunset, vibrant colors, mountain range, trending on art station, wlop, high res, dynamic lighting"
+seed: 9.374949770355702e+18
+step: 50.0
+guidance: 8.0
+strength: 0.6000000238418579
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

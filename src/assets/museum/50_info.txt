@@ -1,0 +1,9 @@
+Message: sent by: g u i l l e
+prompt: "post impressionist robotic cybernetic skynet cyborg skull cyberpunk van gogh oil painting"
+seed: 633833282
+iterations: 60
+size: [512, 512]
+guidance: 6.7
+algo: dallinmackay/Van-Gogh-diffusion
+euler ancestral discrete
+URL: none

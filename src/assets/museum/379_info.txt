@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @Parsieos
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: (high detailed:1.3), (stylized:1.6),a masterpiece,(magical:1.1), (high contrast:1.4), cinematic lighting, Conceptual art, chiaroscuro, depth of field, UHD, ((super detail, high quality, best quality, accurate, 16k)), (of a military base with a big receiver
+seed: 887948770
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/8fe5a1637eb4b7e5c757d2b09850c1886384a47b3bc6e2bf603edbb74ae48f2b

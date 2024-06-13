@@ -1,0 +1,11 @@
+Message: by @TioVic
+prompt: "surrealism trippy mycelium body , HD 8k resolution concept art by WALTER OLTMANN,  OFF CAMERA FLASH  hyperdetailed triadic colors Unreal Engine 5 volumetric"
+seed: 2.4574368182353504e+17
+step: 100.0
+guidance: 4.0
+strength: 0.5
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

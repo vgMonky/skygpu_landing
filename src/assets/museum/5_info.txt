@@ -1,0 +1,9 @@
+Message: sent by: Nikolás
+prompt: "Baroque, skynet skull terminator cyborg cybernetic organism, oil painting, early 17th century, Salvador Dalí style"
+seed: 514286877
+iterations: 15
+size: [360, 512]
+guidance: 12.0
+algo: Envvi/Inkpunk-Diffusion
+euler ancestral discrete
+URL: none

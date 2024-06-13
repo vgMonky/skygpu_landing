@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @I_Seth
+performed by animus2.boid
+reward: 20.0000 GPU
+prompt: New Soviet female stands proudly defiant, looking to the sky. full body portrait, left profile. sunrise over a futuristic city in style of early 20th century soviet propaganda poster, high angle, cityscape, style of dark crimson, indigo, teal and light bei
+seed: 4285401202
+step: 25
+guidance: 10
+strength: 0.9899999999999999911182158029987476766109466552734375
+algo: stabilityai/stable-diffusion-2-1-base
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/237ef5b53751314ee524d4d6d57d80573c1f89ee2e33fb0ad48654b396775c5b

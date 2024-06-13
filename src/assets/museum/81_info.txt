@@ -1,0 +1,9 @@
+Message: sent by: Tío Vic
+prompt: "DJ trippy acid alien, surrealism black and white"
+seed: 701775855
+iterations: 40
+size: [512, 512]
+guidance: 12.0
+algo: prompthero/openjourney
+euler ancestral discrete
+URL: none

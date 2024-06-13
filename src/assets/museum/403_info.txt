@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @VictoriaTelos
+performed by worker1.scd
+reward: 20.0000 GPU
+prompt: a formation of Astronauts, armed for a tournament, enveloped in electrifying luminaries, rays and lightning, on the planet Saturn
+seed: 3515396113
+step: 20
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/cf6ac3d3ae37ac60710da2383bd4098796faba1a1a7c0cfba6dc50b571e822bc

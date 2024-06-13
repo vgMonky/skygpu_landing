@@ -1,0 +1,9 @@
+Message: prompt: "bearded cyberpunk wizard solar flare lysergic"
+seed: 1.0208155739144763e+19
+step: 35.0
+guidance: 9.0
+algo: "ink"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none

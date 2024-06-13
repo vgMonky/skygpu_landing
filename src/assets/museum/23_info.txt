@@ -1,0 +1,9 @@
+Message: sent by: EaFryaFrea
+prompt: "beautiful rainy forest night moon, caspar david friedrich style, painting"
+seed: 663809271
+iterations: 75
+size: [512, 512]
+guidance: 7.5
+algo: runwayml/stable-diffusion-v1-5
+euler ancestral discrete
+URL: none

@@ -1,0 +1,9 @@
+Message: prompt: "magical dragon"
+seed: 5.904417752707173e+18
+step: 35.0
+guidance: 8.0
+algo: "ink"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none

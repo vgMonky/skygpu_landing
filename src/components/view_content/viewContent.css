@@ -1,6 +1,9 @@
 /* /src/component/view_content/viewContent.css */
 @import '../../variables.css';
 
+.view-content{
+    max-width: 420px;
+}
 
 .view-title{
     font-size: 1.6rem;

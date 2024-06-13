@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by ImGnoW id: 6688511315
+performed by testworker2
+reward: 20.0000 GPU
+prompt: Minimalistic logo design style graphic design polygonal cyberpunk strong beaver with tale and teeth shinning standing up front made in polygonal metallic style full body
+seed: 1669795378
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/1af050e736e786fe19b75cd7ac8dfce568b5a7817a71dda6ebbf58419c52a3d9

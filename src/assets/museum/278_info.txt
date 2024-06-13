@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: blue character, BioShock tetris pixel art, volumetric light
+seed: 1595827961
+step: 60
+guidance: 10
+strength: 0.38000000000000000444089209850062616169452667236328125
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/8595069887fe70be3b3a2e4a4934a51c1993eb0a91829835a8cdef023b23dcca

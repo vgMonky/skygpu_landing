@@ -1,0 +1,9 @@
+Message: sent by: Tío Vic
+prompt: "blue Skynet skull, electric blue and white storm, ancient japanese painting, katsushika hokusai edo period, very detailed, 8k"
+seed: 481691015
+iterations: 40
+size: [512, 512]
+guidance: 11.0
+algo: prompthero/openjourney
+euler ancestral discrete
+URL: none

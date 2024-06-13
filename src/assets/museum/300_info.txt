@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by SaNTi id: 6676776570
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: sureal dmt eye
+seed: 2676108280
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/f1881ad8586b01af9317b3eef7e9207500871d907acb3017a191942d99fc88af

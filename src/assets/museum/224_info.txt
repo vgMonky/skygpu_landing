@@ -1,0 +1,14 @@
+Message: Get your image on IPFS
+SKYNET Transaction Explorer
+by @guilledk
+performed by testworker1
+reward: 20.0000 GPU
+prompt: skynet terminator skull metal slug pixel art neon colors
+seed: 1530426687
+step: 28
+guidance: 12
+strength: 0.5
+algo: midj
+Made with Skynet v0.1a9
+JOIN THE SWARM: @skynetgpu
+URL: https://ipfs.ancap.tech/ipfs/QmeeWN34WxorSW4mmkvaCq3oZ8ULL954KME3y64AbB4Cf7/image.png

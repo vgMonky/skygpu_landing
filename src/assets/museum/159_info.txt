@@ -1,0 +1,11 @@
+Message: by @zoltaniam
+prompt: "a frictionless experience"
+seed: 1.6978372217797695e+19
+step: 35.0
+guidance: 8.0
+strength: 0.800000011920929
+algo: "waifu"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

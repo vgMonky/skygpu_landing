@@ -1,0 +1,11 @@
+Message: by @TioVic
+prompt: "white wolf viking portrait cold, 8k resolution concept art portrait by Greg Rutkowski, Artgerm, WLOP, Alphonse Mucha dynamic lighting hyperdetailed intricately detailed Splash art trending on Artstation triadic colors Unreal Engine 5 volumetric lighting"
+seed: 1.3192389350840267e+19
+step: 80.0
+guidance: 8.0
+strength: 0.5
+algo: "robot"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

@@ -1,0 +1,9 @@
+Message: sent by: Agu3000
+prompt: "Europe nuclear war hyper realistic landscape"
+seed: 133313090
+iterations: 28
+size: [512, 512]
+guidance: 7.5
+algo: prompthero/openjourney
+euler ancestral discrete
+URL: none

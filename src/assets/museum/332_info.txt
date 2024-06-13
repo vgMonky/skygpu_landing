@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @torresnelson1
+performed by testworker2
+reward: 20.0000 GPU
+prompt: In the film "Interstellar," Gargantua is a visually stunning black hole that plays a critical role in the story. It appears as a dark, almost perfectly circular void encircled by a luminous accretion disk. This glowing ring is comprised of matter swirling 
+seed: 3182835388
+step: 22
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/c7878f244c6582a96a5bf672e87ea967040dbdd413da3a78043f439702a9f485

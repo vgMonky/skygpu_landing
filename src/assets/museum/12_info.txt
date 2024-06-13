@@ -1,0 +1,9 @@
+Message: prompt: "dimethyltryptamine bitcoin lucy in the sky with diamonds trippy"
+sent by: @guillermor99
+iterations: 60
+size: (512, 640)
+seed: 164404362
+guidance: 8.0
+stable-diff v1.5 uncensored
+euler ancestral discrete
+URL: None

@@ -1,0 +1,9 @@
+Message: sent by: Victoria
+prompt: "full moon, stars in the sky, path, trees around, multicolored flowers, grass, background, landscape, mountains, night lighting, realistic professional art"
+seed: 391515002
+iterations: 20
+size: [512, 512]
+guidance: 7.0
+algo: prompthero/openjourney
+euler ancestral discrete
+URL: none

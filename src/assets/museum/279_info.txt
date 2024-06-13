@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: green brain character, tetris pixel art, volumetric light, reflective black, surrealist painting acid tripp
+seed: 825602812
+step: 60
+guidance: 10
+strength: 0.38000000000000000444089209850062616169452667236328125
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/784d5710cc69b841539c959cb14337c43cca108d987f5648722f4e219ac5825e

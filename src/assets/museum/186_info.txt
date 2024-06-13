@@ -1,0 +1,11 @@
+Message: by @Joel_aldrich
+prompt: "a romantic robot couple, they look into each other's electrical shock, super rare star Wars design, old Bauhaus poste advertising design, trippy davinchi with sifi head and shoulders portrait, 8k resolution concept art portrait by Greg Rutkowski, Artgerm, "
+seed: 4.027678730964154e+18
+step: 28.0
+guidance: 8.0
+strength: 0.5
+algo: "robot"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

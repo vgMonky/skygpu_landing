@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @VictoriaTelos
+performed by testworker2
+reward: 20.0000 GPU
+prompt: a garden of exotic flowers, a mother sitting in the middle of the flowers taking a break, vibrant and gradient colors, lighting and superior quality, drawing style
+seed: 670401806
+step: 34
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/d8f512ee97ee04b05e4b7a1dd09ea97ce197c69e9299a6244b0e171f9ac0c94e
