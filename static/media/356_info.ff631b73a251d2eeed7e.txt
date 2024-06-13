@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @torresnelson1
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: a very tall tower with a fire on top of it, a screenshot, reddit, hurufiyya, the eye of sauron, you looking into the maw, movie promotional image, emperor, close-up!!!!!!, targ nar, the beginning of the end, hd'', profile pic, elden ring official, alliance
+seed: 4282244443
+step: 29
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/6e05635ff576f05e3ff056f7852a41f57694f9db0a475e080bc8ff40fbec5f0e

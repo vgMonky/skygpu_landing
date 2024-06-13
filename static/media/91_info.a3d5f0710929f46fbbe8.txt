@@ -1,0 +1,9 @@
+Message: sent by: Tío Vic
+prompt: "dmt alien entity nude naked ,lysergic frequency wave alien, acid trippy illustration, surrealism, very detailed skin, hairy facial, 8k"
+seed: 578664507
+iterations: 40
+size: [512, 512]
+guidance: 9.0
+algo: Envvi/Inkpunk-Diffusion
+euler ancestral discrete
+URL: none

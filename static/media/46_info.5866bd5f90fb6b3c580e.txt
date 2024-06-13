@@ -1,0 +1,9 @@
+Message: sent by: M
+prompt: "cyberpunk montevideo, dramatic, 8k vray"
+seed: 35866726
+iterations: 100
+size: [360, 512]
+guidance: 8.0
+algo: nitrosocke/Ghibli-Diffusion
+euler ancestral discrete
+URL: None

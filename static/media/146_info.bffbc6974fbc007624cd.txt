@@ -1,0 +1,9 @@
+Message: prompt: "Anthony fauci, robot, head and shoulders, wires, machinery, satellites, hyper realistic, hyper detailed, borg, 4k, cyber fucking punk, dystopia"
+seed: 1.857412895452219e+18
+step: 35.0
+guidance: 8.0
+algo: "stable"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none

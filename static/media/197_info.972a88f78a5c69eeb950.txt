@@ -1,0 +1,11 @@
+Message: by @TioVic
+prompt: "mafia al Capone Ronaldinho movie poster"
+seed: 8.757846479578274e+18
+step: 65.0
+guidance: 8.0
+strength: 0.5
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

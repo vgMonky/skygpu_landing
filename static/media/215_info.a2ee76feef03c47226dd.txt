@@ -1,0 +1,11 @@
+Message: by @zoltaniam
+prompt: "Cyber punk techno dj soviet propaganda poster, Berlin, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha, 8k octane beautifully detailed r"
+seed: 1.7823150200984975e+19
+step: 50.0
+guidance: 8.0
+strength: 0.6000000238418579
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

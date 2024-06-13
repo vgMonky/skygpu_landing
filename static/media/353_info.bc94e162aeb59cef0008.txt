@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @m0mosh
+performed by animus2.boid
+reward: 20.0000 GPU
+prompt: close up a deer, fantasy landscape, towering crystal mountains, floating islands, and bioluminescent forests
+seed: 1825394082
+step: 27
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/e13caf428e7d6e83bd44761a613e79acd575b965181e541e442caedab969c2a6

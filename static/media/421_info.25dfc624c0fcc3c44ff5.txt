@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: skynet terminator fight club underground necromancer, pink and blue, mid pixel 128, volumetric light
+seed: 3129653464
+step: 20
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/83410f69495a7a0831c5593f06e6fd631e1bfd519bc47553934faa333315ac2c

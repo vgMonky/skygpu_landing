@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @m0mosh
+performed by testworker2
+reward: 20.0000 GPU
+prompt: cyberpunk , hyper realistic, dystopian, a future where people follow strict rules, always seeking pleasure, yet losing touch with who they really are. It's a world where genuine emotions fade away, traded for a superficial and controlled version of happine
+seed: 2147333357
+step: 21
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/70508c27cb8d1391c49798ec0409a749a8c9c871df5b6a08cb90fdc042feeed5

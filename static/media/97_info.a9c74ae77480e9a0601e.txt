@@ -1,0 +1,9 @@
+Message: sent by: Tío Vic
+prompt: "astronaut, trippy black and white void, alex gray art style, trippy art, 8k resolution concept art, Alphonse Mucha dynamic lighting hyperdetailed"
+seed: 832207344
+iterations: 40
+size: [512, 512]
+guidance: 8.0
+algo: Linaqruf/anything-v3.0
+euler ancestral discrete
+URL: none

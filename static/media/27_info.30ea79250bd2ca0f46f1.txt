@@ -1,0 +1,9 @@
+Message: sent by: Tío Vic
+prompt: "alien fucking cyberpunk dog , surrealism"
+seed: 442237153
+iterations: 40
+size: [512, 512]
+guidance: 9.0
+algo: Linaqruf/anything-v3.0
+euler ancestral discrete
+URL: none

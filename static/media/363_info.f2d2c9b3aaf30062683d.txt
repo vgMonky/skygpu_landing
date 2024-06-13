@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @tlccstudio
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: pixel art raining cats and dogs and a catdog,  with a rainbow in the background 🌈
+seed: 415577620
+step: 20
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/9facefae565e8a7fc2757599aeca0e51b6124814ccad94ef82a3aff83a7febe7

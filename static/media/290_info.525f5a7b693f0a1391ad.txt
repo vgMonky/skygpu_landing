@@ -1,0 +1,14 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: cyber natural plant, surrealist painting with exaggerated paint strokes, brushes strokes pattern fractal, monochrome, high contrast
+seed: 2472546292
+step: 45
+guidance: 5
+strength: 0.38000000000000000444089209850062616169452667236328125
+algo: stabilityai/stable-diffusion-xl-base-1.0
+upscaler: x4
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/bd563b2ac01273178d49ee7a07a4a00256ca0c8a3a15de32cacaf4e6ecae97bd

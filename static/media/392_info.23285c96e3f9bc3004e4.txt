@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @guilledk
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: travis bickle thousand yard stare pixel 128x128 dystopic
+seed: 3355380092
+step: 34
+guidance: 7.5
+strength: 0.65000000000000002220446049250313080847263336181640625
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/a5ad0839d373986046bb2c7e413977eaa8376f88e428686223e474a9f7e7a12d

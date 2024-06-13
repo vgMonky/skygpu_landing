@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @guilledk
+performed by testworker55
+reward: 20.0000 GPU
+prompt: cyberpunk skynet terminator skull a post impressionist oil painting with muted colors authored by Paul Cézanne, Paul Gauguin, Vincent van Gogh, Georges Seurat
+seed: 876972447
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/659cc677ee4b6af4bcc6f8ab3c61f21a46cc9e559acffe777bbd6ab7f0ab2544

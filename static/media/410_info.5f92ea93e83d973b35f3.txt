@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: raccoon with suit American Dream garbage hunter s thomson poster   oil canvas painting
+seed: 2032662212
+step: 31
+guidance: 6.70000000000000017763568394002504646778106689453125
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/643d35d167bc20b91a10aaab730e6b3dc5a8db4ae4ce1b8e575a28482bf3708f

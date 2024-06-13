@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker55
+reward: 20.0000 GPU
+prompt: skynet terminator skull surrealist painting, BioShock
+seed: 2766466571
+step: 35
+guidance: 7
+strength: 0.59999999999999997779553950749686919152736663818359375
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/a3b0c8b249f42e53a4aec02f64791dbdcbc972e7938bd73e177b4fd126654dac

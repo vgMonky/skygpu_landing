@@ -1,0 +1,32 @@
+Message: SKYNET Transaction Explorer
+by @zoltaniam
+performed by testworker2
+reward: 20.0000 GPU
+prompt: cyberpunk
+soviet propaganda poster
+rastafari
+cannabis
+art deco
+H R Giger Necronom IV
+dimethyltryptamine
+lysergic
+slut
+psilocybin
+trippy
+lucy in the sky with diamonds
+fractal
+da vinci
+pencil illustration
+blueprint
+internal diagram
+baroque
+the last judgment
+
+seed: 503253350
+step: 33
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/b5830dceb918fd02237db2ffe9682dc6cc8a3464dfb2a98b74cb566adc5cca33

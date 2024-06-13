@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @m0mosh
+performed by animus2.boid
+reward: 20.0000 GPU
+prompt: labyrinth,ultra-detailed, realistic, 8k, octane render, hyper detailed, cinematic
+seed: 1065825108
+step: 21
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/9c2f5289aa84eb7bdf533c93b27b0f0b6679c088cfbe2a5cad9e7b775682ef26

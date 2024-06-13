@@ -1,0 +1,9 @@
+Message: sent by: Tío Vic
+prompt: "alien fucking cyberpunk Anubis, surrealism, lysergic"
+seed: 764409572
+iterations: 40
+size: [512, 512]
+guidance: 11.0
+algo: Linaqruf/anything-v3.0
+euler ancestral discrete
+URL: none

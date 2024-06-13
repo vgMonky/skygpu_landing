@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @torresnelson1
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: a close up of a person in a boat on a body of water, a character portrait, by Jamie Hewlett, deviantart, lowbrow, tank girl, mad magazine, blue head, zombie pirate, wears a destroyed hat, the'other mother'from'coraline ', in style of heavy metal comic, dez
+seed: 719741875
+step: 31
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/06c3b5da632d19967670181ab65d0aad628306220772f4e26c945106be0eaa06

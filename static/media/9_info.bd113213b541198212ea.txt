@@ -1,0 +1,4 @@
+Message: prompt: "soviet travis bickle angry propaganda poster"
+sent by: @guillermor99
+seed: 948986734
+URL: None

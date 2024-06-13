@@ -1,0 +1,9 @@
+Message: sent by: 𝕽𝖆𝖙𝖆
+prompt: "plague doctor dark suit white mask medieval oil van gogh style"
+seed: 794316091
+iterations: 25
+size: [512, 512]
+guidance: 9.0
+algo: prompthero/openjourney
+euler ancestral discrete
+URL: none

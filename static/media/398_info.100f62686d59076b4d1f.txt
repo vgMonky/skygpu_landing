@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: moving of flow, shader, oil on canvas, painting strokes, intense eruption
+seed: 4237466119
+step: 24
+guidance: 8
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/751e4c2a77e2b40d98f5a54bd11a69d05bd4363770796d28b16d3bb4addc3e72

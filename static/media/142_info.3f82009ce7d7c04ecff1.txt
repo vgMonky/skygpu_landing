@@ -1,0 +1,9 @@
+Message: prompt: "patrick stewart portrait, robot, head and shoulders, wires, machinery, satellites, hyper realistic, hyper detailed, trippy Borg, 4k, lysergic"
+seed: 4.928564917465056e+18
+step: 88.0
+guidance: 8.0
+algo: "ink"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none

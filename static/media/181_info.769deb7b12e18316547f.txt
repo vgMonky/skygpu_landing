@@ -1,0 +1,10 @@
+Message: by @VictoriaTelos
+prompt: "incandescent light, cloud of glory, seated on the throne, full of power, his voice is like thunder"
+seed: 1.6232116171890264e+19
+step: 36.0
+guidance: 7.0
+strength: 0.5
+algo: "ink"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

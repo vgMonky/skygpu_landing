@@ -1,0 +1,9 @@
+Message: sent by: Tío Vic
+prompt: "lysergic alien, acid trippy illustration, surrealism, very detailed skin, hairy facial, 8k"
+seed: 545607087
+iterations: 40
+size: [512, 512]
+guidance: 12.0
+algo: Envvi/Inkpunk-Diffusion
+euler ancestral discrete
+URL: none

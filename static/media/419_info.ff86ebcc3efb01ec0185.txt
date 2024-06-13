@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: dark soul, darkness demon gameplay, pixel art style, detailed pixel 3d
+seed: 2862469646
+step: 24
+guidance: 7
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/1b2de27ee6502b4b930870276fe8e005b28ecec1d7b93ab8b1c2fba23c753bdf

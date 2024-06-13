@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @torresnelson1
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: a very tall tower with a fire on top of it, by Andrei Kolkoutine, reddit, eye of sauron, epic music album cover, the gate to hell, profile pic, still from loki ( 2 0 2 1 ), the depthless eye, mobile wallpaper, you looking into the maw, trailer, pose 1 of 1
+seed: 2488851451
+step: 27
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/6bccde17568c08a657992467f86b2178cdb23f4198fce6e432931669a27841a2

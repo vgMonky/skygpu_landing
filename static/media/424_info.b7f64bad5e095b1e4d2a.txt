@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @zoltaniam
+performed by testworker2
+reward: 20.0000 GPU
+prompt: the duck terminator, quacking back in time to kill john canard, the duck man with city street vibes. dystopia roboduckus. Skynet is all you need
+seed: 1234009184
+step: 34
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/be6d461710cd541910e6e5f989ed7968f1319af6598ab121f786b37427199156

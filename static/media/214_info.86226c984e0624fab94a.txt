@@ -1,0 +1,11 @@
+Message: by @guillermor99
+prompt: "cyberpunk hacker travis bickle thousand yard stare dystopic violent wild Extremely high detail, details, realistic, fantasy art, solo, masterpiece, portrait painting, saturated colors, art by Arthur Rackham, Muzinabu, Johann Tischbein, Eugene de Blaas, Fre"
+seed: 3.676932260397027e+18
+step: 28.0
+guidance: 8.0
+strength: 0.550000011920929
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

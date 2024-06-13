@@ -1,0 +1,14 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: ancient Mayan samurai tribe portrait, snakes and plants, strapped into vibrational waves. Tigers, orange, paint, green red colors, all keeping the goddes nature alive with dnt trip, oil on canvas, professional painting stroke, fractal painting strokes
+seed: 2846961197
+step: 45
+guidance: 7
+strength: 0.38000000000000000444089209850062616169452667236328125
+algo: stabilityai/stable-diffusion-xl-base-1.0
+upscaler: x4
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/a022d8dd2f34eccc8065c6b8a9b79d2734ea71a907c4619b84c6de5c3fd2408f

@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: Bauhaus design magazine, micro chip, minimal painting, dmt 3D cartoon style metal robot cyber bull, tripp painting and strokes
+seed: 1186352696
+step: 35
+guidance: 8
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/d26dda7f4df2ea93d1f33e5ebf795d56426a67ff5b4f7993f8636979a9187471

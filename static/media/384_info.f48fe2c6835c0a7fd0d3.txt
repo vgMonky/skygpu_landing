@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @tlccstudio
+performed by testworker2
+reward: 20.0000 GPU
+prompt: pixel art of the last synthwave judgement with radical rainbow angels battling metroid and Metal Combat spaceships in the sky, in the style of Studio Ghibli with prismatic colors and castles in the sky, when the heavens and stars are judged painted in the 
+seed: 1319319424
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/2aac32dc1192e77945be54527e43b54ddc3edd57391b402b17d91ad1046ae918

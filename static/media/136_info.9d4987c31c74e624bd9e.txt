@@ -1,0 +1,9 @@
+Message: prompt: "bot"
+seed: 7.719042073543482e+17
+step: 28.0
+guidance: 7.0
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none

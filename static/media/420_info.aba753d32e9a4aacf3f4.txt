@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @TioVic
+performed by testworker2
+reward: 20.0000 GPU
+prompt: fps Dark Souls gameplay, darkness demon boss, pixel art style, detailed pixel 3d, dark romanic cathedral background, cinematic illumination
+seed: 4095089610
+step: 21
+guidance: 7
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/5adfceafabe2c84282f6480664fe7e3d9f7ff05fff4c18729feabbc337444a02

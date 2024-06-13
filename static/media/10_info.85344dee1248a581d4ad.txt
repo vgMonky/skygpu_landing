@@ -1,0 +1,9 @@
+Message: prompt: "soviet hugo chavez propaganda poster"
+sent by: @guillermor99
+iterations: 100
+size: (360, 512)
+seed: 331903612
+guidance: 9.0
+stable-diff v1.5 uncensored
+euler ancestral discrete
+URL: None

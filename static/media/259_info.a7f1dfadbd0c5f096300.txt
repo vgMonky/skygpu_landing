@@ -1,0 +1,14 @@
+Message: SKYNET Transaction Explorer
+by @cryptoapebot4
+performed by testworker2
+reward: 20.0000 GPU
+prompt: letter on desktop saying the word "ransom" spelled out in letters of different sizes and shapes cut out from newspapers and magazines
+seed: 937328078
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+upscaler: x4
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/41d1725932fe5ee9b8805fd504010110a02e797d6e8ce3b84ab4c9b5718b2e8f

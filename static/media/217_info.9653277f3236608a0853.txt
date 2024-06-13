@@ -1,0 +1,11 @@
+Message: by @TioVic
+prompt: "Psilosybin mushroom growth process, Darwin evolution style, Darwin evolution anatomy drawing, very detailed, HD 8k"
+seed: 4.0494274984805037e+17
+step: 45.0
+guidance: 8.0
+strength: 0.75
+algo: "stable"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

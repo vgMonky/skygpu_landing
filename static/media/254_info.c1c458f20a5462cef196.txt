@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @guilledk
+performed by testworker55
+reward: 20.0000 GPU
+prompt: cyberpunk travis bickle melancholic graphic novel muted colors
+seed: 2565718399
+step: 28
+guidance: 7.5
+strength: 0.520000000000000017763568394002504646778106689453125
+algo: snowkidy/stable-diffusion-xl-base-0.9
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/303d607238c8dd572435c1d65ddcead91a553529caba0b8bce1b01b8afc09514

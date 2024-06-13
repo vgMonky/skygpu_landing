@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by manu id: 1336865376
+performed by animus2.boid
+reward: 20.0000 GPU
+prompt: Beautiful beach with glassy waves, retro pop art, Hiroshi Senju style
+seed: 240930595
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/a29aca65993afc2163a0d0089324c7a23fcf175849d3457cc0daee536f696e12

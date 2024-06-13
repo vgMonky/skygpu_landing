@@ -1,0 +1,11 @@
+Message: by @TioVic
+prompt: "black and white alien fucking clown surrealism, Lycergic reflection, black and white trippy art, 8k resolution concept, realistic, professional"
+seed: 1.0264839552226816e+19
+step: 65.0
+guidance: 7.0
+strength: 0.5
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @matias_94
+performed by animus2.boid
+reward: 20.0000 GPU
+prompt: naruto uzumaki, concept art, inspired by Kanō Hōgai, shonen jump cover, mobile wallpaper, in a menacing pose
+seed: 2217507782
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/f82fca4c6895ccfa013d2eab31dbecb83c315595bcd716315f954f1ee40f81e6

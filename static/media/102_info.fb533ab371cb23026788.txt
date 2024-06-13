@@ -1,0 +1,10 @@
+Message: sent by: g u i l l e
+prompt: "soviet travis bickle propaganda poster high contrast dystopic"
+seed: 416881976
+iterations: 28
+size: [512, 512]
+upscaler: x4
+guidance: 7.5
+algo: prompthero/openjourney
+euler ancestral discrete
+URL: none

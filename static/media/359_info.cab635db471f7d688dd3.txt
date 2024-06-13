@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @m0mosh
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: closeup a woman , backgrounds deers, fantasy landscape, towering crystal mountains, floating islands, and bioluminescent forests, neon colors
+seed: 1494610900
+step: 32
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/56510c13abdb766e59047458712993d27f4a163f103e8f65d3c253c75b153010

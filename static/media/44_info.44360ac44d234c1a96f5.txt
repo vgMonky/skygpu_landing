@@ -1,0 +1,9 @@
+Message: sent by: g u i l l e
+prompt: "soviet dystopic propaganda poster high contrast war criminal George Walker Bush is an American politician who served as the 43rd president of the United States  george orwell toon shading"
+seed: 894001346
+iterations: 75
+size: [512, 512]
+guidance: 7.5
+stable-diff v1.5 uncensored
+euler ancestral discrete
+URL: none

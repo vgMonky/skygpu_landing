@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @guilledk
+performed by tito
+reward: 20.0000 GPU
+prompt: rich luxury traficante gorilla that is sitting on a yatch, knife wielding, inspired by Tomer Hanuka, pixiv, furry art, discord profile picture, akehiko inoue and ross tran, blue ocean, varguyart style
+seed: 101196491
+step: 34
+guidance: 7.5
+strength: 0.65000000000000002220446049250313080847263336181640625
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/cfb76a940a32fab1ff77a8098710c3f8e5c62f00c1535331488f87fd70938e5c

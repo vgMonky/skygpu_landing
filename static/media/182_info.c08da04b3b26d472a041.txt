@@ -1,0 +1,10 @@
+Message: by @VictoriaTelos
+prompt: "Elvys Presley, the king of rock and gospel music"
+seed: 7.281272757293279e+18
+step: 36.0
+guidance: 7.0
+strength: 0.5
+algo: "midj"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

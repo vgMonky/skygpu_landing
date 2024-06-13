@@ -1,0 +1,11 @@
+Message: by @zoltaniam
+prompt: "wizard Skynet, skull soviet propaganda poster, head and shoulders, by Dimitry Moor"
+seed: 1.3677999448604619e+19
+step: 50.0
+guidance: 8.0
+strength: 0.6000000238418579
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

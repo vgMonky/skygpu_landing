@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @tlccstudio
+performed by testworker2
+reward: 20.0000 GPU
+prompt: Trevor from Castlevania in the style of art nuovo
+seed: 4092674457
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/f6e70fb7cb318664719323bad6269cb65101db8f9515afdc34150e03dfd34ee8

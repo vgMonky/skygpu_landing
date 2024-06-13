@@ -1,0 +1,10 @@
+Message: sent by: g u i l l e
+prompt: "a beautiful young cuouple looking at eachother romantically soulmates enjoying a sunrise on the beach anime studio ghibli   colorful light, intricate, elegant, highly detailed, my rendition, artstation, illustration, art by alphonse mucha and uang guangjia..."
+(full prompt too big to show on reply...)
+seed: 941311097
+iterations: 75
+size: [512, 512]
+guidance: 10.0
+stable-diff v1.5 uncensored
+euler ancestral discrete
+URL: none

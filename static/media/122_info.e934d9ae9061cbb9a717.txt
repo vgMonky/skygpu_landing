@@ -1,0 +1,8 @@
+Message: prompt: "cyberpunk general girl dmt solar flare"
+seed: 5.82071110025286e+17
+step: 35.0
+guidance: 7.0
+algo: "ink"
+sampler: k_euler_ancestral
+skynet v0.1a7
+URL: none

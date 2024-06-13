@@ -1,0 +1,11 @@
+Message: by @TioVic
+prompt: "lsd, pixel art"
+seed: 8.128550807331848e+18
+step: 80.0
+guidance: 7.0
+strength: 0.5
+algo: "midj"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None

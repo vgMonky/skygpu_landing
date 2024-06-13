@@ -1,0 +1,9 @@
+Message: sent by: zoulja
+prompt: "elon musk as joker"
+seed: 8800882
+iterations: 45
+size: [512, 512]
+guidance: 7.5
+algo: Envvi/Inkpunk-Diffusion
+euler ancestral discrete
+URL: none

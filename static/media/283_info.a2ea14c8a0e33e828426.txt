@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @zoltaniam
+performed by testworker2
+reward: 20.0000 GPU
+prompt: membrane, high res, blood brain barrier, cerebellum, chrysanthemum, borders of snake scales, flowers blooming, vegetation of veins
+seed: 707799358
+step: 35
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/9b85cc5784cc18a98f9edaa5f5bb97ba1195777d6e8ed4966ed87899526b807e

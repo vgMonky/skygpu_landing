@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @Boidcom
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: Sun profile + Halftone pattern + editorial illustration of the memento morti + higly textured, genre defining mixed media collage painting + fringe absurdism + Award winning halftone pattern illustration + simple flowing shapes + subtle shadows + paper tex
+seed: 2721334357
+step: 35
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/842a1d0bfbab3ae6edfe48738aec1623218126399c1e4fc2e13eecdf1e28cd3e

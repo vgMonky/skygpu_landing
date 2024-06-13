@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @zoltaniam
+performed by testworker2
+reward: 20.0000 GPU
+prompt: cool water forest isometric pixel art, one rubber duck wearing sunglasses, terminator vibes skynet ducky, focus on the rubber duckbot with glasses
+seed: 3228403357
+step: 28
+guidance: 7
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/d6d2655e939ec588d9a10f719c9074e2b6c65e2c06a865223a34066805891f12

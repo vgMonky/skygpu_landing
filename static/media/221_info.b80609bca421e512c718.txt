@@ -1,0 +1,12 @@
+Message: Get your image on IPFS
+SKYNET Transaction Explorer
+by @zoltaniam performed by testworker1
+prompt: metal slag retro 16bit dystopia
+seed: 6029689322562914845
+step: 35
+guidance: 7.5
+strength: 0.5
+algo: midj
+Made with Skynet 0.1a9
+JOIN THE SWARM: @skynetgpu
+URL: http://test1.us.telos.net:8080/ipfs/QmbNyfWRQaRwZCM1RCkynTqCU42H1vZVykD3jVBUjzPxu4/image.png

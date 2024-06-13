@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by manu id: 1336865376
+performed by testworker2
+reward: 20.0000 GPU
+prompt: joyful summer morning glassy ocean in the Mediterranean sea in 1970s photorealistic picture
+seed: 530242587
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/d8e3ecd56c2eeae7219f9af1dab9b459d0527a6a864ea91f2609e092ad652133

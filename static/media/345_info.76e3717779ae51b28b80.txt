@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @torresnelson1
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: a close up of a person wearing a hat, by Jamie Hewlett, deviantart, pop art, girl wearing uniform, juri han from street fighter, official fanart behance hd, murdoc niccals, pin on anime, chris moore”
+seed: 3149076879
+step: 27
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/932e3ecf2bf6a4315931fc58e4dc5191591778edb7b00bbb016a66c93bd5c977

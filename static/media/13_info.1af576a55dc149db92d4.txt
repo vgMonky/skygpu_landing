@@ -1,0 +1,9 @@
+Message: prompt: "jeffrey epstein wanted criminal soviet propaganda poster"
+sent by: @RataOi
+iterations: 60
+size: (512, 512)
+seed: 250090088
+guidance: 7.5
+stable-diff v1.5 uncensored
+euler ancestral discrete
+URL: None

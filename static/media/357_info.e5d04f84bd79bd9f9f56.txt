@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @torresnelson1
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: the war of the worlds movie poster, inspired by H.P. Lovecraft, cgsociety contest winner, beautiful painting of a tall, he is traversing a shadowy city, cute cthulhu, concept art oil painting, robot overlord in the year 3499, gotham, horror ”, alejandro bu
+seed: 1577580041
+step: 30
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/c485293afa1b08b01a520151e9f656b238ef4659aec60c9d08ae1b744db735f9

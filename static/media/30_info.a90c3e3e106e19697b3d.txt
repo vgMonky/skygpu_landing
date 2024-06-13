@@ -1,0 +1,9 @@
+Message: sent by: 𝕽𝖆𝖙𝖆
+prompt: "alien fucking cyberpunk dog white bullterrier, surrealism hdanime"
+seed: 464227618
+iterations: 40
+size: [512, 512]
+guidance: 9.0
+algo: runwayml/stable-diffusion-v1-5
+euler ancestral discrete
+URL: none

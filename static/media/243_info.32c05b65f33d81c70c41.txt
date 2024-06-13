@@ -1,0 +1,14 @@
+Message: SKYNET Transaction Explorer
+by @guilledk
+performed by testworker55
+reward: 20.0000 GPU
+prompt: a ultradetailed panting of convicted criminal agressor violent sunglasses travis bickle The thousand-yard stare or two-thousand-yard stare is a phrase often used to describe the blank, unfocused gaze of combatants who have become emotionally detached
+seed: 2759866601
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: snowkidy/stable-diffusion-xl-base-0.9
+upscaler: x4
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/883c294b50b16a0cf0426361a3eefdf39aac9635ad0f506ad729ead14476ea4c

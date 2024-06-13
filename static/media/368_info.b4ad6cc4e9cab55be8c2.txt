@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @tlccstudio
+performed by animus2.boid
+reward: 20.0000 GPU
+prompt: cyberpunk man in the style of sepia art nuovo
+seed: 750234720
+step: 32
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a12
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.explorer.skygpu.net/v2/explore/transaction/6d1e94c08e178d5e86fde43b5c1e5bb104e98e7f48cd9f3aa4631af81c0dab6b

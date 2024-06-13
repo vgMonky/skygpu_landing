@@ -1,0 +1,13 @@
+Message: SKYNET Transaction Explorer
+by @guilledk
+performed by animus1.boid
+reward: 20.0000 GPU
+prompt: soviet propaganda poster a close up of mohawk travis bickle wearing sunglasses, cyberpunk art dystopic violent
+seed: 1603254336
+step: 28
+guidance: 7.5
+strength: 0.5
+algo: stabilityai/stable-diffusion-xl-base-1.0
+Made with Skynet v0.1a11
+JOIN THE SWARM: @skynetgpu
+URL: https://explorer.skygpu.net/v2/explore/transaction/3117fee1ab7c0d5af1cc21d124db95933739d25333679d03a4e6f8a21e08ee78

@@ -1,0 +1,11 @@
+Message: by @TioVic
+prompt: "black and white surrealist trippy portrait, 8k resolution concept art portrait by Greg Rutkowski, Artgerm, WLOP, Alphonse Mucha dynamic lighting hyperdetailed intricately detailed Splash art trending on Artstation triadic colors Unreal Engine 5 volumetric "
+seed: 6.636115048684883e+18
+step: 100.0
+guidance: 4.0
+strength: 0.5
+algo: "stable"
+upscaler: "x4"
+sampler: k_euler_ancestral
+skynet v0.1a8
+URL: None
