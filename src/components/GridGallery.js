@@ -24,6 +24,19 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
   const [largeImage, setLargeImage] = useState(null);
   const cardRef = useRef(null);
 
+  // Shuffle smallImages array once on component mount
+  useEffect(() => {
+    shuffleImages();
+  }, []);
+
+  // Function to shuffle images and set state
+  const shuffleImages = () => {
+    const shuffledArray = shuffleArray([...smallImages]);
+    setShuffledImages(shuffledArray);
+  };
+
+  const [shuffledImages, setShuffledImages] = useState([]);
+
   useEffect(() => {
     if (showCard && cardRef.current) {
       cardRef.current.scrollIntoView({ behavior: 'smooth' });
@@ -62,9 +75,6 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
     setShowCard(false);
     setLargeImage(null); // Clear the large image when the card is closed
   };
-
-  // Shuffle smallImages array
-  const shuffledImages = shuffleArray([...smallImages]);
 
   return (
     <div className="grid-gallery">
