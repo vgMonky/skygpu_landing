@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/skygpu_landing/static/css/main.48f7aebf.css",
-    "main.js": "/skygpu_landing/static/js/main.c4b93217.js",
+    "main.css": "/skygpu_landing/static/css/main.a48acf1b.css",
+    "main.js": "/skygpu_landing/static/js/main.cfe100f5.js",
     "static/media/71_photo_400px.jpg": "/skygpu_landing/static/media/71_photo_400px.d17c0c8095ca00d9af97.jpg",
     "static/media/257_photo_400px.jpg": "/skygpu_landing/static/media/257_photo_400px.53f42549ba403fbb0eff.jpg",
     "static/media/79_photo_400px.jpg": "/skygpu_landing/static/media/79_photo_400px.b65bad0070016c1da5cb.jpg",
@@ -708,11 +708,11 @@
     "static/media/6_info.txt": "/skygpu_landing/static/media/6_info.53dd5a906272bb47316e.txt",
     "static/media/7_info.txt": "/skygpu_landing/static/media/7_info.53dd5a906272bb47316e.txt",
     "static/media/8_info.txt": "/skygpu_landing/static/media/8_info.53dd5a906272bb47316e.txt",
-    "main.48f7aebf.css.map": "/skygpu_landing/static/css/main.48f7aebf.css.map",
-    "main.c4b93217.js.map": "/skygpu_landing/static/js/main.c4b93217.js.map"
+    "main.a48acf1b.css.map": "/skygpu_landing/static/css/main.a48acf1b.css.map",
+    "main.cfe100f5.js.map": "/skygpu_landing/static/js/main.cfe100f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.48f7aebf.css",
-    "static/js/main.c4b93217.js"
+    "static/css/main.a48acf1b.css",
+    "static/js/main.cfe100f5.js"
   ]
 }
