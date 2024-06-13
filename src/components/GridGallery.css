@@ -104,13 +104,25 @@
 
 @media (max-width: 800px) {
     .card {
-        max-width: 300px;
+        width: 90%; /* Adjust width as needed */
+        max-width: 300px; /* Maximum width of the card */
         padding: 20px;
-        position: absolute;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border: 1px solid var(--color-3);
+        background-color: rgba(0, 0, 0, 0.897);
+        box-shadow:
+          0 0 5px rgba(0, 255, 0, 0.02),
+          0 0 10px rgba(0, 255, 0, 0.02),
+          0 0 20px rgba(0, 255, 0, 0.02),
+          0 0 40px rgba(0, 255, 0, 0.08);
+        z-index: 500;
     }
+
     .card-image {
-        max-width: 300px;
-        width: 100%;
+        max-width: 100%; /* Ensure the image width respects its container */
         height: auto;
         aspect-ratio: 1 / 1; /* Ensure the image container is always square */
         object-fit: cover; /* Ensure the image covers the entire container without stretching */
