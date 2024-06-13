@@ -68,7 +68,11 @@
 .card-text {
     margin-top: 10px;
     white-space: pre-line; /* Ensure that line breaks are maintained */
+    overflow-y: auto; /* Enable vertical scrolling if content overflows */
+    overflow-x: clip; /* Enable vertical scrolling if content overflows */
+    max-height: calc(80vh - 310px);
 }
+
 
 .backdrop {
     position: fixed;
