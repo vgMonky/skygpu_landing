@@ -14,7 +14,7 @@ const Intro = () => {
 
             <div className="page-section">
                 <h1><TypewriterText speed={10}>Vision</TypewriterText></h1>
-                <p><TypewriterText speed={10}>Create a decentralized alternative to big-AI tools and platforms following the principles of the original cypherpunks.</TypewriterText></p>
+                <p><TypewriterText speed={10}>Create a decentralized alternative to big-AI tools and platforms, following the principles of the original cypherpunks.</TypewriterText></p>
             </div> 
 
             <div className="page-section">

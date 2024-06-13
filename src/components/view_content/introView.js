@@ -28,7 +28,7 @@ const IntroView = () => {
         </p>
         <p>
           <TypewriterText speed={10}>
-            We want to create a decentralized alternative to big-AI tools and platforms following the principles of the original cypherpunks.
+            We want to create a decentralized alternative to big-AI tools and platforms, following the principles of the original cypherpunks.
           </TypewriterText>
         </p>
         <p>
@@ -44,8 +44,8 @@ const IntroView = () => {
           </TypewriterText>
         </button>
 
-        <br />
-        <img src="https://avatars.githubusercontent.com/u/151031767?s=128&v=4" alt="Icon" className="navbar-icon" />
+        
+        
       </div>
     </div>
   );

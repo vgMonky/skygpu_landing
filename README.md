@@ -34,7 +34,8 @@ Web page in the style of a retro terminal, containing all Skygpu.net basic infor
 - [x] Cards to big for small mobile.
 
 ### Desktop:
-- [x] click on a menu -> close menu.
+- [ ] Change cursor on hover and interactions.
+- [x] Click on a menu -> close menu.
 - [x] Layout/frame widen.
 - [ ] Focus options with arrows.
 - [ ] Return key to enter.

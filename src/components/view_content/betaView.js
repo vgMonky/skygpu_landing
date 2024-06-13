@@ -54,8 +54,7 @@ const BetaView = () => {
           </TypewriterText>
         </button>
 
-        <br />
-        <img src="https://avatars.githubusercontent.com/u/151031767?s=128&v=4" alt="Icon" className="navbar-icon" />
+       
       </div>
     </div>
   );

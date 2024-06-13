@@ -104,8 +104,9 @@
 
 @media (max-width: 800px) {
     .card {
-        width: 90%; /* Adjust width as needed */
+        width: 80%; /* Adjust width as needed */
         max-width: 300px; /* Maximum width of the card */
+        max-height: 90vh;
         padding: 20px;
         position: fixed;
         top: 50%;
@@ -126,5 +127,8 @@
         height: auto;
         aspect-ratio: 1 / 1; /* Ensure the image container is always square */
         object-fit: cover; /* Ensure the image covers the entire container without stretching */
+    }
+    .card-text {
+        font-size: 12px;
     }
 }
