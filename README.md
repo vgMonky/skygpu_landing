@@ -16,12 +16,13 @@ Web page in the style of a retro terminal, containing all Skygpu.net basic infor
 - [x] Grid gallery.
 - [x] Card preview.
 - [x] Close-card x button.
-- [ ] Img optimization.
+- [x] Img optimization.
 - [ ] Add full museum.
 
 ### Effects:
 - [ ] Curved Screen Shader
 - [x] CRT Texture FX
+- [x] Type delay FX
 - [ ] Click selection sound.
 - [ ] Constant back white noise.
 - [ ] Type sound
