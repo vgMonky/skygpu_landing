@@ -3,8 +3,8 @@ const path = require('path');
 const sharp = require('sharp');
 
 const inputDir = 'museum'; // Input directory containing original images
-const outputDir = 'museum_100px'; // Output directory for resized images
-const maxWidth = 100; // Maximum width of resized images
+const outputDir = 'museum_150px'; // Output directory for resized images
+const maxWidth = 150; // Maximum width of resized images
 const quality = 80; // Quality level for JPEG images (0-100)
 const pngQuality = 6; // Quality level for PNG images (0-9)
 
