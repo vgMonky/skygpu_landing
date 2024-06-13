@@ -17,7 +17,7 @@ Web page in the style of a retro terminal, containing all Skygpu.net basic infor
 - [x] Card preview.
 - [x] Close-card x button.
 - [x] Img optimization.
-- [ ] Add full museum.
+- [x] Add full museum.
 
 ### Effects:
 - [ ] Curved Screen Shader
