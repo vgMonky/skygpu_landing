@@ -3,8 +3,8 @@ import './GridGallery.css';
 
 // Dynamically import all images and text files from the museum folder
 const importAll = (r) => r.keys().map(r);
-const images = importAll(require.context('../museum', false, /_photo\.jpg$/));
-const texts = importAll(require.context('../museum', false, /_info\.txt$/));
+const images = importAll(require.context('../assets/museum', false, /_photo\.jpg$/));
+const texts = importAll(require.context('../assets/museum', false, /_info\.txt$/));
 
 const GridGallery = ({ max_images, grid_size = '100px' }) => {
   const [selectedImage, setSelectedImage] = useState(null);
