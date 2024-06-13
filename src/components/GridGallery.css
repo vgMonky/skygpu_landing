@@ -24,7 +24,7 @@
     width: 400px; /* Adjust this to match the card's max width */
     height: auto;
     aspect-ratio: 1 / 1; /* Maintain aspect ratio, change this if needed */
-    background-color: black;
+    background-color: var(--color-1);
     display: flex;
     justify-content: center;
     align-items: center;

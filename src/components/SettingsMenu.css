@@ -1,0 +1,19 @@
+/* src/components/SettingsMenu.css */
+.settings-menu {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color:var(--color-1);
+    border: 1px solid var(--color-3);
+    z-index: 1000;
+    padding: 10px 30px 25px;
+
+  }
+
+label{
+    width: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
