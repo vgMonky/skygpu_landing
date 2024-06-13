@@ -1,12 +1,19 @@
 // src/fx/TypewriterText.js
 import React, { useState, useEffect } from 'react';
+import { useSettings } from '../states/settings_state'; // Import the settings context
 import './TypewriterText.css'; // Import the CSS file for hover styles
 
 const TypewriterText = ({ children, speed = 50, hover = false, textSize = '1em', ticking = false, orange = false }) => {
   const [displayedText, setDisplayedText] = useState('');
   const [isFaded, setIsFaded] = useState(false);
+  const { typeFxEnabled } = useSettings(); // Access the typeFxEnabled state
 
   useEffect(() => {
+    if (!typeFxEnabled) {
+      setDisplayedText(children); // Directly show the full text if type effect is disabled
+      return;
+    }
+
     const text = children;
     setDisplayedText(''); // Reset the displayed text before starting the typing effect
 
@@ -20,7 +27,7 @@ const TypewriterText = ({ children, speed = 50, hover = false, textSize = '1em',
     }, speed);
 
     return () => clearInterval(intervalId);
-  }, [children, speed]);
+  }, [children, speed, typeFxEnabled]);
 
   useEffect(() => {
     if (ticking) {

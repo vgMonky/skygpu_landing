@@ -26,7 +26,7 @@ Web page in the style of a retro terminal, containing all Skygpu.net basic infor
 - [ ] Click selection sound.
 - [ ] Constant back white noise.
 - [ ] Type sound
-- [ ] FX setting menu (toggled on/off)
+- [x] FX setting menu (toggled on/off)
 - [x] Star* Selected Menu
 
 ### Mobile Corrections:
@@ -34,7 +34,6 @@ Web page in the style of a retro terminal, containing all Skygpu.net basic infor
 - [x] Cards to big for small mobile.
 
 ### Desktop:
-- [ ] Change cursor on hover and interactions.
 - [x] Click on a menu -> close menu.
 - [x] Layout/frame widen.
 - [ ] Focus options with arrows.
