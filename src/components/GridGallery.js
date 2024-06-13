@@ -7,6 +7,15 @@ const smallImages = importAll(require.context('../assets/museum_150px', false, /
 const largeImages = importAll(require.context('../assets/museum_400px', false, /_photo_400px\.jpg$/));
 const texts = importAll(require.context('../assets/museum', false, /_info\.txt$/));
 
+// Function to shuffle an array (Fisher-Yates shuffle algorithm)
+const shuffleArray = (array) => {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+};
+
 const GridGallery = ({ max_images, grid_size = '100px' }) => {
   const [selectedImage, setSelectedImage] = useState(null);
   const [selectedText, setSelectedText] = useState('');
@@ -54,18 +63,21 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
     setLargeImage(null); // Clear the large image when the card is closed
   };
 
+  // Shuffle smallImages array
+  const shuffledImages = shuffleArray([...smallImages]);
+
   return (
     <div className="grid-gallery">
       {showCard && <div className="backdrop" onClick={handleBackdropClick}></div>}
       <div className="image-grid" style={{ gridTemplateColumns: `repeat(auto-fill, minmax(${grid_size}, 1fr))` }}>
-        {smallImages.slice(0, max_images).map((smallImage, index) => (
+        {shuffledImages.slice(0, max_images).map((smallImage, index) => (
           <img
             key={index}
             src={smallImage}
             alt={`museum-${index}`}
             className="grid-image"
             loading="lazy" // Use lazy loading for grid images
-            onClick={(event) => handleImageClick(largeImages[index], index, event)}
+            onClick={(event) => handleImageClick(largeImages[smallImages.indexOf(smallImage)], smallImages.indexOf(smallImage), event)}
           />
         ))}
       </div>
