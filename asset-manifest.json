@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/skygpu_landing/static/css/main.94a73d29.css",
-    "main.js": "/skygpu_landing/static/js/main.9bc19c68.js",
+    "main.js": "/skygpu_landing/static/js/main.2174e211.js",
     "static/media/71_photo_400px.jpg": "/skygpu_landing/static/media/71_photo_400px.d17c0c8095ca00d9af97.jpg",
     "static/media/257_photo_400px.jpg": "/skygpu_landing/static/media/257_photo_400px.53f42549ba403fbb0eff.jpg",
     "static/media/79_photo_400px.jpg": "/skygpu_landing/static/media/79_photo_400px.b65bad0070016c1da5cb.jpg",
@@ -25,6 +25,7 @@
     "static/media/90_photo_400px.jpg": "/skygpu_landing/static/media/90_photo_400px.042669949fb84de82e48.jpg",
     "static/media/80_photo_400px.jpg": "/skygpu_landing/static/media/80_photo_400px.9a45fff9ccfe9a8f6b08.jpg",
     "static/media/227_photo_400px.jpg": "/skygpu_landing/static/media/227_photo_400px.7174c3dc394b3fa62bda.jpg",
+    "static/media/data_reveal.mp3": "/skygpu_landing/static/media/data_reveal.381e3c73154d94d595c8.mp3",
     "static/media/85_photo_400px.jpg": "/skygpu_landing/static/media/85_photo_400px.5c88999c04721688556a.jpg",
     "static/media/137_photo_400px.jpg": "/skygpu_landing/static/media/137_photo_400px.d78aa805d35c466d0818.jpg",
     "static/media/363_photo_400px.jpg": "/skygpu_landing/static/media/363_photo_400px.1416f06917ee549ad70e.jpg",
@@ -45,6 +46,7 @@
     "static/media/11_photo_400px.jpg": "/skygpu_landing/static/media/11_photo_400px.3c4e748b3db60f7a8f08.jpg",
     "static/media/221_photo_400px.jpg": "/skygpu_landing/static/media/221_photo_400px.eaad67c66f101e2b8c2a.jpg",
     "static/media/129_photo_400px.jpg": "/skygpu_landing/static/media/129_photo_400px.d10a38d80812c9b4d15d.jpg",
+    "static/media/enter.mp3": "/skygpu_landing/static/media/enter.8e59db22c58090825748.mp3",
     "static/media/23_photo_400px.jpg": "/skygpu_landing/static/media/23_photo_400px.3de3144b10d8f6874558.jpg",
     "static/media/83_photo_400px.jpg": "/skygpu_landing/static/media/83_photo_400px.40fbcb3b040287fcd661.jpg",
     "static/media/414_photo_400px.jpg": "/skygpu_landing/static/media/414_photo_400px.cfd928933f3a8f9da1ba.jpg",
@@ -362,6 +364,7 @@
     "static/media/32_photo_150px.jpg": "/skygpu_landing/static/media/32_photo_150px.70877b8d82deb3088382.jpg",
     "static/media/222_photo_150px.jpg": "/skygpu_landing/static/media/222_photo_150px.4f4a69cc6291aeea49bc.jpg",
     "static/media/6_photo_150px.jpg": "/skygpu_landing/static/media/6_photo_150px.af64f182845217c8cb26.jpg",
+    "static/media/hover.mp3": "/skygpu_landing/static/media/hover.bba31b0b2c0801c3e351.mp3",
     "static/media/289_info.txt": "/skygpu_landing/static/media/289_info.c94431dcd9c0f6bfe576.txt",
     "static/media/288_info.txt": "/skygpu_landing/static/media/288_info.ac538cbb75005f6aaa80.txt",
     "static/media/303_info.txt": "/skygpu_landing/static/media/303_info.c34b112e194239578d48.txt",
@@ -709,10 +712,10 @@
     "static/media/7_info.txt": "/skygpu_landing/static/media/7_info.53dd5a906272bb47316e.txt",
     "static/media/8_info.txt": "/skygpu_landing/static/media/8_info.53dd5a906272bb47316e.txt",
     "main.94a73d29.css.map": "/skygpu_landing/static/css/main.94a73d29.css.map",
-    "main.9bc19c68.js.map": "/skygpu_landing/static/js/main.9bc19c68.js.map"
+    "main.2174e211.js.map": "/skygpu_landing/static/js/main.2174e211.js.map"
   },
   "entrypoints": [
     "static/css/main.94a73d29.css",
-    "static/js/main.9bc19c68.js"
+    "static/js/main.2174e211.js"
   ]
 }
