@@ -23,10 +23,11 @@ Web page in the style of a retro terminal, containing all Skygpu.net basic infor
 - [ ] Curved Screen Shader
 - [x] CRT Texture FX
 - [x] Type delay FX
-- [ ] Click selection sound.
+- [x] Click selection sound.
 - [ ] Constant back white noise.
-- [ ] Type sound
-- [x] FX setting menu (toggled on/off)
+- [x] Data reveal sound
+- [x] Typing FX setting (on/off)
+- [ ] Sound FX setting (on/off)
 - [x] Star* Selected Menu
 
 ### Mobile Corrections:
@@ -36,6 +37,4 @@ Web page in the style of a retro terminal, containing all Skygpu.net basic infor
 ### Desktop:
 - [x] Click on a menu -> close menu.
 - [x] Layout/frame widen.
-- [ ] Focus options with arrows.
-- [ ] Return key to enter.
 - [ ] Esc key to open and scroll to root menu.
