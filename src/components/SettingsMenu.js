@@ -13,7 +13,7 @@ const SettingsMenu = ({ closeSettings }) => {
       {/* Add your settings options here */}
       <div>
         <label>
-          Type Fx
+          Visual Fx
           <input 
             type="checkbox" 
             checked={typeFxEnabled} 
