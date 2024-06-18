@@ -1,13 +1,13 @@
 import React, { useState, useEffect, useRef } from 'react';
 import './GridGallery.css';
+import hoverSound from '../assets/audio/hover.mp3';
+import enterSound from '../assets/audio/enter.mp3';
 
-// Dynamically import all images and text files from the museum folders
 const importAll = (r) => r.keys().map(r);
 const smallImages = importAll(require.context('../assets/museum_150px', false, /_photo_150px\.jpg$/));
 const largeImages = importAll(require.context('../assets/museum_400px', false, /_photo_400px\.jpg$/));
 const texts = importAll(require.context('../assets/museum', false, /_info\.txt$/));
 
-// Function to shuffle an array (Fisher-Yates shuffle algorithm)
 const shuffleArray = (array) => {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -23,19 +23,20 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
   const [loading, setLoading] = useState(false);
   const [largeImage, setLargeImage] = useState(null);
   const cardRef = useRef(null);
+  const [shuffledImages, setShuffledImages] = useState([]);
+  const [hoverAudio] = useState(new Audio(hoverSound));
+  const audioRef = useRef(hoverAudio);
+  const [clickAudio] = useState(new Audio(enterSound));
+  const clickAudioRef = useRef(clickAudio);
 
-  // Shuffle smallImages array once on component mount
   useEffect(() => {
     shuffleImages();
   }, []);
 
-  // Function to shuffle images and set state
   const shuffleImages = () => {
     const shuffledArray = shuffleArray([...smallImages]);
     setShuffledImages(shuffledArray);
   };
-
-  const [shuffledImages, setShuffledImages] = useState([]);
 
   useEffect(() => {
     if (showCard && cardRef.current) {
@@ -46,18 +47,19 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
   const handleImageClick = (largeImagePath, textIndex, event) => {
     event.stopPropagation();
     setLoading(true);
-    setLargeImage(largeImagePath); // Set the large image path
+    clickAudioRef.current.currentTime = 0; // Reset audio to start
+    clickAudioRef.current.play();
+    setLargeImage(largeImagePath);
     fetch(texts[textIndex])
       .then(response => response.text())
       .then(text => {
-        // Remove the "Message: " part if it exists and exclude everything after "URL:"
         const cleanedText = text.replace(/^Message:\s*/, '').split("URL:")[0].trim();
         setSelectedText(cleanedText);
         setLoading(false);
         setShowCard(true);
       })
       .catch(() => {
-        setLoading(false); // Handle errors by stopping the loading indicator
+        setLoading(false);
       });
   };
 
@@ -67,14 +69,38 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
 
   const handleBackdropClick = () => {
     setShowCard(false);
-    setLargeImage(null); // Clear the large image when the card is closed
+    setLargeImage(null);
   };
 
   const handleCloseButtonClick = (event) => {
     event.stopPropagation();
     setShowCard(false);
-    setLargeImage(null); // Clear the large image when the card is closed
+    setLargeImage(null);
   };
+
+  const handleImageHover = () => {
+    audioRef.current.currentTime = 0;
+    audioRef.current.play();
+  };
+
+  const handleImageLeave = () => {
+    audioRef.current.pause();
+    audioRef.current.currentTime = 0;
+  };
+
+  useEffect(() => {
+    return () => {
+      audioRef.current.pause();
+      audioRef.current.currentTime = 0;
+    };
+  }, []);
+
+  useEffect(() => {
+    return () => {
+      clickAudioRef.current.pause();
+      clickAudioRef.current.currentTime = 0;
+    };
+  }, []);
 
   return (
     <div className="grid-gallery">
@@ -86,8 +112,16 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
             src={smallImage}
             alt={`museum-${index}`}
             className="grid-image"
-            loading="lazy" // Use lazy loading for grid images
-            onClick={(event) => handleImageClick(largeImages[smallImages.indexOf(smallImage)], smallImages.indexOf(smallImage), event)}
+            loading="lazy"
+            onClick={(event) =>
+              handleImageClick(
+                largeImages[smallImages.indexOf(smallImage)],
+                smallImages.indexOf(smallImage),
+                event
+              )
+            }
+            onMouseEnter={handleImageHover}
+            onMouseLeave={handleImageLeave}
           />
         ))}
       </div>
