@@ -24,17 +24,15 @@ Web page in the style of a retro terminal, containing all Skygpu.net basic infor
 - [x] CRT Texture FX
 - [x] Type delay FX
 - [x] Click selection sound.
-- [ ] Constant back white noise.
+- [x] Constant back white noise.
 - [x] Data reveal sound
 - [x] Typing FX setting (on/off)
-- [ ] Sound FX setting (on/off)
+- [x] Sound FX setting (on/off)
 - [x] Star* Selected Menu
 
-### Mobile Corrections:
+### Corrections:
 - [x] Clicking read-more scroll behaviour.
 - [x] Cards to big for small mobile.
-
-### Desktop:
 - [x] Click on a menu -> close menu.
 - [x] Layout/frame widen.
-- [ ] Esc key to open and scroll to root menu.
+

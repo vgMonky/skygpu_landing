@@ -5,18 +5,28 @@ const SettingsContext = createContext();
 
 export const SettingsProvider = ({ children }) => {
   const [typeFxEnabled, setTypeFxEnabled] = useState(() => {
-    // Initialize state from localStorage
     const savedTypeFx = localStorage.getItem('typeFxEnabled');
     return savedTypeFx !== null ? JSON.parse(savedTypeFx) : true; // Default to true
   });
 
+  const [muteEnabled, setMuteEnabled] = useState(() => {
+    const savedMute = localStorage.getItem('muteEnabled');
+    return savedMute !== null ? JSON.parse(savedMute) : false; // Default to false
+  });
+
   useEffect(() => {
-    // Save to localStorage whenever typeFxEnabled changes
     localStorage.setItem('typeFxEnabled', JSON.stringify(typeFxEnabled));
   }, [typeFxEnabled]);
 
+  useEffect(() => {
+    localStorage.setItem('muteEnabled', JSON.stringify(muteEnabled));
+    document.querySelectorAll('audio').forEach(audio => {
+      audio.muted = muteEnabled;
+    });
+  }, [muteEnabled]);
+
   return (
-    <SettingsContext.Provider value={{ typeFxEnabled, setTypeFxEnabled }}>
+    <SettingsContext.Provider value={{ typeFxEnabled, setTypeFxEnabled, muteEnabled, setMuteEnabled }}>
       {children}
     </SettingsContext.Provider>
   );

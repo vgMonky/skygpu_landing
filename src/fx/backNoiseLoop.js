@@ -14,7 +14,7 @@ const BackNoiseLoop = () => {
     const fadeIn = () => {
       const fadeInterval = setInterval(() => {
         if (audio.volume < 0.1) { // Adjust maximum volume as needed
-          audio.volume += 0.005; // Adjust the increment as per your preference
+          audio.volume += 0.003; // Adjust the increment as per your preference
         } else {
           clearInterval(fadeInterval);
         }

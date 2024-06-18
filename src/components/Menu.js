@@ -1,5 +1,4 @@
-// src/components/Menu.js
-import React, { useState } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import './Menu.css';
 import { useMain } from '../states/main_state'; // Adjust the path as necessary
 import TypewriterText from '../fx/TypewriterText';
@@ -8,6 +7,7 @@ import SettingsMenu from './SettingsMenu';
 const Menu = ({ toggleMenu }) => {
   const { currentMain, setCurrentMain } = useMain();
   const [showSettings, setShowSettings] = useState(false);
+  const menuRef = useRef(null);
 
   const handleButtonClick = (newMain) => {
     setCurrentMain(newMain);
@@ -26,8 +26,21 @@ const Menu = ({ toggleMenu }) => {
     setShowSettings(false);
   };
 
+  const handleClickOutside = (event) => {
+    if (menuRef.current && !menuRef.current.contains(event.target)) {
+      toggleMenu();
+    }
+  };
+
+  useEffect(() => {
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, []);
+
   return (
-    <div className="menu">
+    <div className="menu" ref={menuRef}>
       {showSettings && <SettingsMenu closeSettings={closeSettingsMenu} />}
       <a href='' className="option">
         <TypewriterText hover={true}>{getOptionText('home_main', '/init')}</TypewriterText>

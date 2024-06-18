@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+import { useSettings } from '../states/settings_state'; // Import the settings context
 import './GridGallery.css';
 import hoverSound from '../assets/audio/hover.mp3';
 import enterSound from '../assets/audio/enter.mp3';
@@ -24,6 +25,7 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
   const [largeImage, setLargeImage] = useState(null);
   const cardRef = useRef(null);
   const [shuffledImages, setShuffledImages] = useState([]);
+  const { muteEnabled } = useSettings(); // Access the muteEnabled state
   const [hoverAudio] = useState(new Audio(hoverSound));
   const audioRef = useRef(hoverAudio);
   const [clickAudio] = useState(new Audio(enterSound));
@@ -46,9 +48,11 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
 
   const handleImageClick = (largeImagePath, textIndex, event) => {
     event.stopPropagation();
+    if (!muteEnabled) {
+      clickAudioRef.current.currentTime = 0; // Reset audio to start
+      clickAudioRef.current.play();
+    }
     setLoading(true);
-    clickAudioRef.current.currentTime = 0; // Reset audio to start
-    clickAudioRef.current.play();
     setLargeImage(largeImagePath);
     fetch(texts[textIndex])
       .then(response => response.text())
@@ -79,8 +83,10 @@ const GridGallery = ({ max_images, grid_size = '100px' }) => {
   };
 
   const handleImageHover = () => {
-    audioRef.current.currentTime = 0;
-    audioRef.current.play();
+    if (!muteEnabled) {
+      audioRef.current.currentTime = 0;
+      audioRef.current.play();
+    }
   };
 
   const handleImageLeave = () => {

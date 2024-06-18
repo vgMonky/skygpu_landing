@@ -4,7 +4,7 @@ import './SettingsMenu.css'; // Ensure this file exists and is correctly styled
 import { useSettings } from '../states/settings_state'; // Import the settings context
 
 const SettingsMenu = ({ closeSettings }) => {
-  const { typeFxEnabled, setTypeFxEnabled } = useSettings();
+  const { typeFxEnabled, setTypeFxEnabled, muteEnabled, setMuteEnabled } = useSettings();
 
   return (
     <div className="settings-menu">
@@ -13,7 +13,7 @@ const SettingsMenu = ({ closeSettings }) => {
       {/* Add your settings options here */}
       <div>
         <label>
-          Visual Fx
+          typing_fx
           <input 
             type="checkbox" 
             checked={typeFxEnabled} 
@@ -23,8 +23,18 @@ const SettingsMenu = ({ closeSettings }) => {
       </div>
       <div>
         <label>
-          Sound Fx
+          curved_fx
           <input type="checkbox" />
+        </label>
+      </div>
+      <div>
+        <label>
+          mute_audio
+          <input 
+            type="checkbox" 
+            checked={muteEnabled} 
+            onChange={(e) => setMuteEnabled(e.target.checked)} 
+          />
         </label>
       </div>
     </div>

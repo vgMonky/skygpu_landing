@@ -11,14 +11,14 @@ let isDataRevealAudioPlaying = false;
 const TypewriterText = ({ children, speed = 50, hover = false, textSize = '1em', ticking = false, orange = false }) => {
   const [displayedText, setDisplayedText] = useState('');
   const [isFaded, setIsFaded] = useState(false);
-  const { typeFxEnabled } = useSettings(); // Access the typeFxEnabled state
+  const { typeFxEnabled, muteEnabled } = useSettings(); // Access the typeFxEnabled and muteEnabled state
   const hoverAudioRef = useRef(null);
   const enterAudioRef = useRef(null);
   const dataRevealAudioRef = useRef(null);
   const spanRef = useRef(null); // Create a ref for the span element
 
   const playDataRevealSound = () => {
-    if (isDataRevealAudioPlaying) {
+    if (isDataRevealAudioPlaying || muteEnabled) {
       return;
     }
 
@@ -76,8 +76,10 @@ const TypewriterText = ({ children, speed = 50, hover = false, textSize = '1em',
   useEffect(() => {
     if (hover && hoverAudioRef.current && spanRef.current) {
       const handleMouseEnter = () => {
-        hoverAudioRef.current.currentTime = 0;
-        hoverAudioRef.current.play();
+        if (!muteEnabled) {
+          hoverAudioRef.current.currentTime = 0;
+          hoverAudioRef.current.play();
+        }
       };
 
       const spanElement = spanRef.current;
@@ -87,13 +89,15 @@ const TypewriterText = ({ children, speed = 50, hover = false, textSize = '1em',
         spanElement.removeEventListener('mouseenter', handleMouseEnter);
       };
     }
-  }, [hover]);
+  }, [hover, muteEnabled]);
 
   useEffect(() => {
     if (enterAudioRef.current && spanRef.current) {
       const handleClick = () => {
-        enterAudioRef.current.currentTime = 0;
-        enterAudioRef.current.play();
+        if (!muteEnabled) {
+          enterAudioRef.current.currentTime = 0;
+          enterAudioRef.current.play();
+        }
       };
 
       const spanElement = spanRef.current;
@@ -103,7 +107,7 @@ const TypewriterText = ({ children, speed = 50, hover = false, textSize = '1em',
         spanElement.removeEventListener('click', handleClick);
       };
     }
-  }, []);
+  }, [muteEnabled]);
 
   const typewriterClass = `${hover ? 'typewriter hover' : 'typewriter'} ${ticking ? 'ticking' : ''} ${isFaded ? 'faded' : ''} ${orange ? 'orange' : ''}`;
 
