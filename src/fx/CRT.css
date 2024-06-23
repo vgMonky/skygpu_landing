@@ -195,3 +195,25 @@
     padding: 10px 0px 10px 0px;
     max-width: var(--max-width);
   }
+
+  .frame {
+    position: fixed;
+    z-index: 200;
+    pointer-events: none;
+
+    border-radius: 2rem;
+    border-bottom: 1rem solid;
+    border-left: 1.5rem solid;
+    border-right: 1.5rem solid;
+    border-top: 1rem solid;
+    border-bottom-color: #151515;
+    border-left-color: #0A0A0A;
+    border-right-color: #080808;
+    border-top-color: #080808;
+    background-color: transparent;
+    top: -9px;
+    bottom: -11px;
+    width: 100%;
+    max-width: 1300px;
+    margin-left: -26px;
+  }

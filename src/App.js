@@ -14,6 +14,7 @@ function App() {
   return (
     <div className='crt'>
       <div className='screen'></div>
+      <div className='frame'></div>
       <MainProvider>
         <ViewerStateProvider>
           <SettingsProvider>
