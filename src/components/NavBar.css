@@ -3,8 +3,8 @@
 @import '../variables.css';
 
 .navbar {
-  max-width: 1300px;
-  margin: 5px auto;
+  max-width: var(--max-width);
+  margin: 5px 0px;
   border: 1px solid var(--color-3);
   background-color: rgba(0, 0, 0, 0);
   box-shadow:

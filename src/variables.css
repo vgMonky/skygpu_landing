@@ -15,6 +15,9 @@
     /* buttons */
     --button-margin: 30px;
 
-    }
+    /* general */
+    --max-width: 1300px;
+
+}
 
 

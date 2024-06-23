@@ -3,9 +3,7 @@
 
 
 .page {
-
-    margin: auto;
-    max-width: 1300px;
+    max-width: var(--max-width);
     background-color: rgba(0, 0, 0, 0);
 }
   
@@ -26,13 +24,13 @@
 }
   
     
-  @media (max-width: 450px) {
-      .page-section {
+@media (max-width: 450px) {
+    .page-section {
         padding: 20px;
-        }
     }
+}
   
-.x{
+.x {
     margin: 0px;
 } 
 
