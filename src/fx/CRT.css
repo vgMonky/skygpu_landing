@@ -186,11 +186,12 @@
 
 
   .crt {
+    background-color: var(--color-1);
     flex-grow: 1;
     animation: textShadow 1.6s infinite;
     display: flex;
     flex-direction: column;
-    height: 100vh;
-    margin: 0px;
+    min-height: calc(100vh - 20px); 
+    padding: 10px 0px 10px 0px;
     max-width: var(--max-width);
   }

@@ -13,6 +13,7 @@ import BackNoiseLoop from './fx/backNoiseLoop'; // Import the BackNoiseLoop comp
 function App() {
   return (
     <div className='crt'>
+      <div className='screen'></div>
       <MainProvider>
         <ViewerStateProvider>
           <SettingsProvider>

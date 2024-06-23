@@ -14,10 +14,6 @@ body, * {
   0 0 40px rgba(0, 255, 0, 0.2),
   0 0 80px rgba(0, 255, 0, 0.3);
   text-decoration: none;
-
-
-
-
 }
 
 p {
@@ -45,4 +41,40 @@ body, #root {
 #root {
   flex-grow: 1;
   justify-content: center;
+}
+
+
+
+.screen {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  max-width: var(--max-width);
+  height: 100%;
+  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/86186/crt.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  pointer-events: none;
+  z-index: 100;
+}
+
+.screen::after, .screen::before {
+  content: '';
+  position: fixed;
+  pointer-events: none;
+  z-index: 100;
+  top: 0px;
+  height: 100%;
+  background-color: black;
+}
+
+.screen::after {
+  left: 0px;
+  width: calc(50vw - 650px);
+}
+
+.screen::before {
+  right: 0px;
+  width: calc(50vw - 650px);
 }
