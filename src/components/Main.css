@@ -11,6 +11,7 @@
   /* margin: auto; */
   /* min-height: 80vh; */
   flex-grow: 1;
+  margin: 0px var(--side-margin);
 }
 
 
@@ -23,11 +24,13 @@
   0 0 10px rgba(0, 255, 0, 0.02),
   0 0 20px rgba(0, 255, 0, 0.02),
   0 0 40px rgba(0, 255, 0, 0.08);
+  
 }
   
 @media (max-width: 800px) {
     .main {
         grid-template-columns: repeat(1, 1fr);
+        margin: 0px var(--side-margin-mobile);
       }
   }
 

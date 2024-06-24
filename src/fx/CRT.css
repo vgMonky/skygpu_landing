@@ -198,7 +198,7 @@
 
   .frame {
     position: fixed;
-    z-index: 200;
+    z-index: 1001;
     pointer-events: none;
 
     border-radius: 2rem;
@@ -206,10 +206,10 @@
     border-left: 1.5rem solid;
     border-right: 1.5rem solid;
     border-top: 1rem solid;
-    border-bottom-color: #151515;
-    border-left-color: #0A0A0A;
-    border-right-color: #080808;
-    border-top-color: #080808;
+    border-bottom-color: #0d0e0d;
+    border-left-color: #0d0e0d;
+    border-right-color: #0d0e0d;
+    border-top-color: #0d0e0d;
     background-color: transparent;
     top: -9px;
     bottom: -11px;

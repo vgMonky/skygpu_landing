@@ -12,11 +12,12 @@
     --color-6: #FFFFFF; 
     
 
-    /* buttons */
-    --button-margin: 30px;
-
     /* general */
     --max-width: 1300px;
+    --side-margin: 30px;
+    --side-margin-mobile: 6px;
+    --button-margin: 30px;
+
 
 }
 

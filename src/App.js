@@ -21,6 +21,7 @@ function App() {
             <NavBar/>
             <Main/>
             <Foot/>
+            <div>.</div>
             <BackNoiseLoop /> {/* Add this line to integrate audio */}
           </SettingsProvider>
         </ViewerStateProvider>
