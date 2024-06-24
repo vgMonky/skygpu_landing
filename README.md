@@ -20,7 +20,7 @@ Web page in the style of a retro terminal, containing all Skygpu.net basic infor
 - [x] Add full museum.
 
 ### Effects:
-- [ ] Curved Screen Shader
+- [x] Curved Screen Shader
 - [x] CRT Texture FX
 - [x] Type delay FX
 - [x] Click selection sound.
