@@ -18,7 +18,6 @@ export const SettingsProvider = ({ children }) => {
     const savedCrtFx = localStorage.getItem('crtFxEnabled');
     return savedCrtFx !== null ? JSON.parse(savedCrtFx) : true; // Default to true
   });
-
   const [frameFxEnabled, setFrameFxEnabled] = useState(() => {
     const savedFrameFx = localStorage.getItem('frameFxEnabled');
     return savedFrameFx !== null ? JSON.parse(savedFrameFx) : true; // Default to true

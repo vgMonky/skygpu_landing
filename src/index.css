@@ -76,3 +76,7 @@ body, #root {
   right: 0px;
   width: calc(50vw - 650px);
 }
+
+.none {
+  color: rgba(0, 0, 0, 0);
+}
