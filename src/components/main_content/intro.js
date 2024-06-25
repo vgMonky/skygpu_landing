@@ -32,7 +32,7 @@ const Intro = () => {
                 <p><TypewriterText speed={10}>.Lead Developer & Node Operator</TypewriterText></p>
                 <p><TypewriterText speed={10}>.Backend Developer at Telos Core Developers</TypewriterText></p>
                 <br></br>
-                <a href="https://github.com/iamzoltan" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} hover={true} orange={true} speed={10}>/constantine_tsafatinos</TypewriterText></a>
+                <a href="https://github.com/iamzoltan" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} hover={true} orange={true} speed={10}>/konstantine_tsafatinos</TypewriterText></a>
                 <p><TypewriterText speed={10}>.Developer & Node Operator</TypewriterText></p>
                 <p><TypewriterText speed={10}>.Lead Full-Stack Engineer at Neuromatch</TypewriterText></p>
                 <br></br>
@@ -66,7 +66,7 @@ const Intro = () => {
                 <br></br>
                 <a href="https://github.com/Viterbo" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} hover={true} orange={true} speed={10}>/viterbo_rodriguez </TypewriterText></a>
                 <a href="https://github.com/poplexity" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} hover={true} orange={true} speed={10}>/jesse_schulman </TypewriterText></a>
-                <p><TypewriterText speed={10}>For opening up the Telos community and giving great architectural advice.</TypewriterText></p>
+                <p><TypewriterText speed={10}>For getting me into Telos community and giving great architectural advice.</TypewriterText></p>
             </div> 
 
             <div className="page-section">
