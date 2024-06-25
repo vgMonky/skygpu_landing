@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/skygpu_landing/static/css/main.1f46a76e.css",
-    "main.js": "/skygpu_landing/static/js/main.e13f35c2.js",
+    "main.js": "/skygpu_landing/static/js/main.8fd4191c.js",
     "static/media/back.mp3": "/skygpu_landing/static/media/back.2b011f0f0604e43cee41.mp3",
     "static/media/71_photo_400px.jpg": "/skygpu_landing/static/media/71_photo_400px.d17c0c8095ca00d9af97.jpg",
     "static/media/257_photo_400px.jpg": "/skygpu_landing/static/media/257_photo_400px.53f42549ba403fbb0eff.jpg",
@@ -207,7 +207,6 @@
     "static/media/121_photo_400px.jpg": "/skygpu_landing/static/media/121_photo_400px.f2f1dc9fb23f1efb3829.jpg",
     "static/media/315_photo_400px.jpg": "/skygpu_landing/static/media/315_photo_400px.4da8eeeee023ec2c39a3.jpg",
     "static/media/248_photo_400px.jpg": "/skygpu_landing/static/media/248_photo_400px.7ca05b8602ea2c1b2678.jpg",
-    "static/media/120_photo_400px.jpg": "/skygpu_landing/static/media/120_photo_400px.b43d62e2b88f70af5e04.jpg",
     "static/media/46_photo_400px.jpg": "/skygpu_landing/static/media/46_photo_400px.b874fcdb7e7efb4746b6.jpg",
     "static/media/350_photo_400px.jpg": "/skygpu_landing/static/media/350_photo_400px.3d58a5aadefb96804f00.jpg",
     "static/media/249_photo_400px.jpg": "/skygpu_landing/static/media/249_photo_400px.0bfc4c64bca5d05269fa.jpg",
@@ -264,7 +263,6 @@
     "static/media/345_photo_400px.jpg": "/skygpu_landing/static/media/345_photo_400px.d41e24fbc848d61912db.jpg",
     "static/media/54_photo_400px.jpg": "/skygpu_landing/static/media/54_photo_400px.dbf599e5756078684298.jpg",
     "static/media/136_photo_400px.jpg": "/skygpu_landing/static/media/136_photo_400px.718ffe9dfead21d337d7.jpg",
-    "static/media/163_photo_400px.jpg": "/skygpu_landing/static/media/163_photo_400px.ca36d9493ddb1473c676.jpg",
     "static/media/302_photo_400px.jpg": "/skygpu_landing/static/media/302_photo_400px.8639098b451b62f01927.jpg",
     "static/media/30_photo_400px.jpg": "/skygpu_landing/static/media/30_photo_400px.b22be886adccf9b3c7ba.jpg",
     "static/media/397_photo_400px.jpg": "/skygpu_landing/static/media/397_photo_400px.548f9931d43a28bae376.jpg",
@@ -416,6 +414,7 @@
     "static/media/279_info.txt": "/skygpu_landing/static/media/279_info.fab863c4eb0ae7b74e6d.txt",
     "static/media/291_info.txt": "/skygpu_landing/static/media/291_info.d22d324038a6baa27bd5.txt",
     "static/media/259_info.txt": "/skygpu_landing/static/media/259_info.a7f1dfadbd0c5f096300.txt",
+    "index.html": "/skygpu_landing/index.html",
     "static/media/414_info.txt": "/skygpu_landing/static/media/414_info.30acb52239e66c4e7287.txt",
     "static/media/423_info.txt": "/skygpu_landing/static/media/423_info.d3def5020354f543c786.txt",
     "static/media/424_info.txt": "/skygpu_landing/static/media/424_info.b7f64bad5e095b1e4d2a.txt",
@@ -522,7 +521,6 @@
     "static/media/274_info.txt": "/skygpu_landing/static/media/274_info.34e9e3fd7d355d7b79e8.txt",
     "static/media/368_info.txt": "/skygpu_landing/static/media/368_info.b4ad6cc4e9cab55be8c2.txt",
     "static/media/242_info.txt": "/skygpu_landing/static/media/242_info.55a9c5aab67fd585fc6f.txt",
-    "index.html": "/skygpu_landing/index.html",
     "static/media/175_info.txt": "/skygpu_landing/static/media/175_info.50daadb2160067ce10f9.txt",
     "static/media/222_info.txt": "/skygpu_landing/static/media/222_info.5fad87eb777d75a104fe.txt",
     "static/media/272_info.txt": "/skygpu_landing/static/media/272_info.291bd57251c39c4c13a7.txt",
@@ -686,7 +684,6 @@
     "static/media/170_info.txt": "/skygpu_landing/static/media/170_info.8919f01e770fedf8131f.txt",
     "static/media/129_info.txt": "/skygpu_landing/static/media/129_info.77b3922c1611a2ff5403.txt",
     "static/media/130_info.txt": "/skygpu_landing/static/media/130_info.d9fd1426c1911363ad82.txt",
-    "static/media/120_info.txt": "/skygpu_landing/static/media/120_info.55fb81cd3f9d0ed0d7f8.txt",
     "static/media/117_info.txt": "/skygpu_landing/static/media/117_info.cdcf28c95caf3cc604ab.txt",
     "static/media/104_info.txt": "/skygpu_landing/static/media/104_info.45461c4dd7f94e566ced.txt",
     "static/media/69_info.txt": "/skygpu_landing/static/media/69_info.02b83b9613bacb3fe62b.txt",
@@ -703,7 +700,6 @@
     "static/media/136_info.txt": "/skygpu_landing/static/media/136_info.9d4987c31c74e624bd9e.txt",
     "static/media/9_info.txt": "/skygpu_landing/static/media/9_info.bd113213b541198212ea.txt",
     "static/media/235_info.txt": "/skygpu_landing/static/media/235_info.00dbd48ec9cefd8ef7bf.txt",
-    "static/media/163_info.txt": "/skygpu_landing/static/media/163_info.53dd5a906272bb47316e.txt",
     "static/media/244_info.txt": "/skygpu_landing/static/media/244_info.53dd5a906272bb47316e.txt",
     "static/media/248_info.txt": "/skygpu_landing/static/media/248_info.53dd5a906272bb47316e.txt",
     "static/media/249_info.txt": "/skygpu_landing/static/media/249_info.53dd5a906272bb47316e.txt",
@@ -713,10 +709,10 @@
     "static/media/7_info.txt": "/skygpu_landing/static/media/7_info.53dd5a906272bb47316e.txt",
     "static/media/8_info.txt": "/skygpu_landing/static/media/8_info.53dd5a906272bb47316e.txt",
     "main.1f46a76e.css.map": "/skygpu_landing/static/css/main.1f46a76e.css.map",
-    "main.e13f35c2.js.map": "/skygpu_landing/static/js/main.e13f35c2.js.map"
+    "main.8fd4191c.js.map": "/skygpu_landing/static/js/main.8fd4191c.js.map"
   },
   "entrypoints": [
     "static/css/main.1f46a76e.css",
-    "static/js/main.e13f35c2.js"
+    "static/js/main.8fd4191c.js"
   ]
 }
