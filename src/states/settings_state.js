@@ -9,11 +9,6 @@ export const SettingsProvider = ({ children }) => {
     return savedTypeFx !== null ? JSON.parse(savedTypeFx) : true; // Default to true
   });
 
-  const [muteEnabled, setMuteEnabled] = useState(() => {
-    const savedMute = localStorage.getItem('muteEnabled');
-    return savedMute !== null ? JSON.parse(savedMute) : false; // Default to false
-  });
-
   const [crtFxEnabled, setCrtFxEnabled] = useState(() => {
     const savedCrtFx = localStorage.getItem('crtFxEnabled');
     return savedCrtFx !== null ? JSON.parse(savedCrtFx) : true; // Default to true
@@ -23,16 +18,15 @@ export const SettingsProvider = ({ children }) => {
     return savedFrameFx !== null ? JSON.parse(savedFrameFx) : true; // Default to true
   });
 
+  const [muteEnabled, setMuteEnabled] = useState(() => {
+    const savedMute = localStorage.getItem('muteEnabled');
+    return savedMute !== null ? JSON.parse(savedMute) : false; // Default to false
+  });
+
+
   useEffect(() => {
     localStorage.setItem('typeFxEnabled', JSON.stringify(typeFxEnabled));
   }, [typeFxEnabled]);
-
-  useEffect(() => {
-    localStorage.setItem('muteEnabled', JSON.stringify(muteEnabled));
-    document.querySelectorAll('audio').forEach(audio => {
-      audio.muted = muteEnabled;
-    });
-  }, [muteEnabled]);
 
   useEffect(() => {
     localStorage.setItem('crtFxEnabled', JSON.stringify(crtFxEnabled));
@@ -44,7 +38,6 @@ export const SettingsProvider = ({ children }) => {
       setFrameFxEnabled(false);
     }
   }, [crtFxEnabled]);
-
   useEffect(() => {
     localStorage.setItem('frameFxEnabled', JSON.stringify(crtFxEnabled));
     const frame = document.querySelector('.frame');
@@ -55,6 +48,13 @@ export const SettingsProvider = ({ children }) => {
       frame.style.display = 'none';  
     }
   }, [frameFxEnabled]);
+
+  useEffect(() => {
+    localStorage.setItem('muteEnabled', JSON.stringify(muteEnabled));
+    document.querySelectorAll('audio').forEach(audio => {
+      audio.muted = muteEnabled;
+    });
+  }, [muteEnabled]);
 
   return (
     <SettingsContext.Provider value={{

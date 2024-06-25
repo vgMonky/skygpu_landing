@@ -32,8 +32,9 @@ const Intro = () => {
                 <p><TypewriterText speed={10}>.Lead Developer & Node Operator</TypewriterText></p>
                 <p><TypewriterText speed={10}>.Backend Developer at Telos Core Developers</TypewriterText></p>
                 <br></br>
-                <a href="https://github.com/iamzoltan" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} hover={true} orange={true} speed={10}>/constantine_$SURNAME</TypewriterText></a>
+                <a href="https://github.com/iamzoltan" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} hover={true} orange={true} speed={10}>/constantine_tsafatinos</TypewriterText></a>
                 <p><TypewriterText speed={10}>.Developer & Node Operator</TypewriterText></p>
+                <p><TypewriterText speed={10}>.Lead Full-Stack Engineer at Neuromatch</TypewriterText></p>
                 <br></br>
                 <a href="https://github.com/torresnelson" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} hover={true} orange={true} speed={10}>/nelson_torres</TypewriterText></a>
                 <p><TypewriterText speed={10}>.Developer</TypewriterText></p>
@@ -41,6 +42,7 @@ const Intro = () => {
                 <br></br>
                 <a href="https://github.com/elmartinj" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} hover={true} orange={true} speed={10}>/martin_juarez</TypewriterText></a>
                 <p><TypewriterText speed={10}>.Data Scientist</TypewriterText></p>
+                <p><TypewriterText speed={10}>.BS in applied Mathematics</TypewriterText></p>
                 <br></br>
                 <a href="https://github.com/vgMonky" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} hover={true} orange={true} speed={10}>/victor_goudschaal</TypewriterText></a>
                 <p><TypewriterText speed={10}>.Frontend Developer</TypewriterText></p>
@@ -59,8 +61,8 @@ const Intro = () => {
                 <br></br>
                 <h1> <TypewriterText speed={10}>Special Thanks to:</TypewriterText></h1>
                 <br></br>
-                <a href="" ><TypewriterText  orange={true} speed={10}>”Slowlearner”</TypewriterText></a>
-                <p><TypewriterText speed={10}>(on matrix: @slowlearner:fractaldark.com), early hard ware & monetary contributor, as well as guidance in his extensive experience in the industry.</TypewriterText></p>
+                <a ><TypewriterText  orange={true} speed={10}>”Slowlearner”</TypewriterText></a>
+                <p><TypewriterText speed={10}>(on matrix: @slowlearner:fractaldark.com), early hardware & monetary contributor, as well as guidance in his extensive experience in the industry.</TypewriterText></p>
                 <br></br>
                 <a href="https://github.com/Viterbo" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} hover={true} orange={true} speed={10}>/viterbo_rodriguez </TypewriterText></a>
                 <a href="https://github.com/poplexity" target="_blank" rel="noopener noreferrer"><TypewriterText ticking={true} hover={true} orange={true} speed={10}>/jesse_schulman </TypewriterText></a>

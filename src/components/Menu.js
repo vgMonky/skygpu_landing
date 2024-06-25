@@ -60,7 +60,7 @@ const Menu = ({ toggleMenu }) => {
 
       <div className='line'></div>
       <button className="option settings" onClick={openSettingsMenu}>
-        <TypewriterText hover={true}>/setting</TypewriterText>
+        <TypewriterText hover={true}>/settings</TypewriterText>
       </button>
     </div>
   );
